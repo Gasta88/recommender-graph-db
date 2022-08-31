@@ -1,0 +1,168 @@
+version: 2
+
+models:
+  - name: asset_content_details
+    description: List asset metadata.
+    config:
+      materialized: table
+    columns:
+      - name: item_id
+        description: asset unique id
+      - name: creation_date
+        description: asset date of creation
+      - name: content_type
+        description: asset type
+      - name: recency
+        description: how long this asset created
+      - name: customer_name
+        description: name of the customer
+  - name: asset_content_history
+    description: List of interaction between users and assets
+    config:
+      materialized: view
+    columns:
+      - name: user_id
+        description: user unique id
+      - name: item_id
+        description: asset unique id
+      - name: timestamp
+        description: timestamp from when the interaction was made
+      - name: recency
+        description: how long this asset created
+      - name: customer_name
+        description: name of the customer
+  - name: asset_invitations
+    description: List of interaction between inviter, invited and item
+    config:
+      materialized: view
+    columns:
+      - name: user_id
+        description: user unique id
+      - name: timestamp
+        description: timestamp from when the interaction was made
+      - name: rating
+        description: user rating for the item
+      - name: type
+        description: item type
+      - name: priority
+        description: weight used for the ML model
+      - name: recency
+        description: how long this asset created
+      - name: customer_name
+        description: name of the customer
+  - name: asset_rating
+    description: List of item rating by user
+    config:
+      materialized: view
+    columns:
+      - name: user_id
+        description: user unique id
+      - name: item_id
+        description: item unique id
+      - name: rating
+        description: user rating for the item
+      - name: customer_name
+        description: name of the customer
+  - name: course_content_details
+    description: List course metadata
+    config:
+      materialized: table
+    columns:
+      - name: item_id
+        description: item unique id
+      - name: name
+        description: course name
+      - name: category_id
+        description: course category id
+      - name: lang_code
+        description: language id
+      - name: difficult
+        description: course difficulty
+      - name: status
+        description: course status of enablement
+      - name: created_date
+        description: course creation datetime
+      - name: recency
+        description: how long the course was created
+      - name: customer_name
+        description: name of the customer
+  - name: course_content_history
+    description: List interactions between course and user
+    config:
+      materialized: view
+    columns:
+      - name: user_id
+        description: user unique id
+      - name: item_id
+        description: course unique id
+      - name: status
+        description: course status of enablement
+      - name: timestamp
+        description: course/user interaction datetime
+      - name: recency
+        description: how long the course was created
+      - name: customer_name
+        description: name of the customer
+  - name: course_coursepath
+    description: List course/coursepath
+    config:
+      materialized: table
+    columns:
+      - name: item_id
+        description: course unique id
+      - name: path_id
+        description: coursepath unique id
+      - name: customer_name
+        description: name of the customer
+  - name: course_rating
+    description: List of course rating by user
+    config:
+      materialized: view
+    columns:
+      - name: user_id
+        description: user unique id
+      - name: item_id
+        description: item unique id
+      - name: rating
+        description: user rating for the item
+      - name: customer_name
+        description: name of the customer
+  - name: user_user_details
+    description: List of user metadata
+    config:
+      materialized: table
+    columns:
+      - name: user_id
+        description: user unique id
+      - name: can_manage_subordinates
+        description: is the user a manager or not
+      - name: valid
+        description: user validity
+      - name: registration_date
+        description: datetime of user registration
+      - name: recency
+        description: how long were the user registered
+      - name: customer_name
+        description: name of the customer
+  - name: user_user_groups
+    description: List of user groups metadata
+    config:
+      materialized: table
+    columns:
+      - name: group_id
+        description: group unique id
+      - name: user_id
+        description: user unique id
+      - name: customer_name
+        description: name of the customer
+  - name: user_user_language
+    description: Metadata about user and their languages
+    config:
+      materialized: table
+    columns:
+      - name: user_id
+        description: user unique id
+      - name: user_language
+        description: user language setting
+      - name: customer_name
+        description: name of the customer

@@ -1,0 +1,17 @@
+[tool.poetry]
+name = "recommender_graph_db"
+version = "0.1.0"
+description = "Recommender system on Neo4j graph database"
+authors = ["Francesco Gastaldello"]
+
+[tool.poetry.dependencies]
+python = "^3.9"
+dbt-athena-adapter = "^1.0.1"
+boto3 = "^1.24.63"
+neo4j = "^4.4.5"
+
+[tool.poetry.dev-dependencies]
+
+[build-system]
+requires = ["poetry-core>=1.0.0"]
+build-backend = "poetry.core.masonry.api"

@@ -1,0 +1,330 @@
+id_path,path_code,path_name,path_descr,subscribe_method,create_date,img,is_selling,purchase_type,price,visible_in_catalog,credits,days_valid,days_valid_type,catchup_enabled,catchup_limit,deep_link,last_update,catalog_show_alternative_learning_plans,catalog_show_alternative_subscription_plans,catalog_show_buy_now,ecommerce_pricing_system_default,author_id,short_description,cover_img
+116,LH-MDF-101,LIGHTHOUSE MOBILE DEVICE FORENSICS 101,"<p>This course gives an overview of the process to prepare mobile device data for eDiscovery review via Cellebrite/Intella workflows presented in a Client Services training on 3/24/2021. Technology changes quickly, so treat this content as background information only. Matters should be scoped with Forensics prior to discussing collection strategy and methods with clients.</p>
+<p>Please make sure to view the corresponding KB found <a href=\"https://lhediscoveryprod.service-now.com/lhe?id=kb_article&amp;sysparm_article=KB0016410\" target=\"_blank\" rel=\"noreferrer\">here</a>. </p>
+<p> </p>",false,1624381956000,"",false,"","",false,"","",false,false,false,false,1624381956000,"","","","","","",""
+100,CUO-L-Form-004,CUO Work Order - Decryption,"<p>CUO Work Order Training Support for all of SD. This learning plan includes:</p>
+<p><span style=\"text-decoration:underline;\">Decryption</span></p>
+<p><strong>CS Services</strong></p>
+<p><a href=\"https://lhediscoveryprod.service-now.com/kb?id=kb_article_view&amp;sysparm_article=KB0016205\" target=\"_blank\" rel=\"noreferrer\">01_Provide Specifications (Client Services)</a></p>
+<p>02_QC Specifications (Client Services)</p>
+<p><strong>CPTS</strong></p>
+<p><a href=\"https://lhediscoveryprod.service-now.com/kb_view.do?sysparm_article=KB0015978\" target=\"_blank\" rel=\"noreferrer\">06_Decryption Auto Processing (Major Exceptions)</a></p>
+<p><strong>Processing</strong></p>
+<p><a href=\"https://lhediscoveryprod.service-now.com/kb_view.do?sysparm_article=KB0015981\" target=\"_blank\" rel=\"noreferrer\">04_Create Replacement Datasets (Processing)</a></p>
+<p>05a_Stage Data (Processing)</p>
+<p>05b_Stage Data QC (Processing)</p>
+<p>07_Non-English OCR Processing</p>
+<p><strong>Hosting</strong></p>
+<p><a href=\"https://lhediscoveryprod.service-now.com/kb_view.do?sysparm_article=KB0015544\" target=\"_blank\" rel=\"noreferrer\">08_Decryption Post-Load (Hosting)</a></p>
+<p><a href=\"https://lhediscoveryprod.service-now.com/kb_view.do?sysparm_article=KB0015545\" target=\"_blank\" rel=\"noreferrer\">09_Decryption Post-Load QC (Hosting)</a></p>
+<p><strong>All </strong></p>",false,1616530667000,"",false,"","",false,"","",false,false,false,true,1616714160000,"","","","","","",""
+25,LIL-012,Engage & Retain Employees - LinkedIn Learning,<p>Engage and retain employees</p>,false,1561644575000,"",false,"","",true,"","",false,false,false,false,1561644575000,"","","","","","",""
+13,SD-INS-IN TECH-NH-100,SD IN  - 30 Day Intake Technician Onboarding Training,<p>30 day learning plan for the position of Intake Technician</p>,false,1561579905000,"",false,"","",true,"","",false,false,false,false,1562960059000,"","","","","","",""
+57,CS-INS-SrPM-NH-200,CS SrPM - 60 Day Onboarding Plan,<p>60 day learning plan for the position of Senior PM.  Begin this plan after completing this role's 30 day plan.</p>,false,1565042345000,"",false,"","",false,"","",false,false,false,false,1565042345000,"","","","","","",""
+94,"",Goal Setting and Career Development Planning,<p>Goal Setting curated content from LinkedIn Learning</p>,false,1610492003000,"",false,"","",true,"","",false,false,false,true,1610492003000,"","","","","","",""
+43,LIL-030,Prioritization - LinkedIn Learning,<p>Establishing and maintaining a prioritization process. </p>,false,1561647874000,"",false,"","",true,"","",false,false,false,false,1561647874000,"","","","","","",""
+58,CS-INS-SrPM-NH-300,CS SrPM - 90 Day Onboarding Plan,<p>90 day learning plan for the position of Senior PM.  Begin this plan after completing this role's 60 day plan</p>,false,1565106215000,"",false,"","",false,"","",false,false,false,false,1565106215000,"","","","","","",""
+16,LIL-003,Effective Communication - LinkedIn Learning,<p>Communicating effectively. </p>,false,1561642503000,"",false,"","",true,"","",false,false,false,false,1561642503000,"","","","","","",""
+27,LIL-014,Managing Performance - LinkedIn Learning,<p>Managing employee performance by using accountability.</p>,false,1561645052000,"",false,"","",true,"","",false,false,false,false,1561645052000,"","","","","","",""
+88,RS-PP001,Pre-Processed Data Handling Request Process,"<p>This learning plan consists of four videos that will provide an overview on handling pre-processed data. </p>
+<p>Reviewing the InSite Ticket - <a href=\"https://lhediscoveryprod.service-now.com/kb?id=kb_article_view&amp;sysparm_article=KB0011539\" target=\"_blank\" rel=\"noreferrer\">KB0011539</a></p>
+<p>Load File Analysis</p>
+<p>Field List Mapping <a href=\"https://lhediscoveryprod.service-now.com/kb?id=kb_article_view&amp;sysparm_article=KB0015127\" target=\"_blank\" rel=\"noreferrer\">KB0015127</a></p>
+<p>Optimus Normalization <a href=\"https://lhediscoveryprod.service-now.com/kb?id=kb_article_view&amp;sysparm_article=KB0015127\" target=\"_blank\" rel=\"noreferrer\">KB0015127</a></p>
+<p>Please make sure to review the workflow outlined in this <a href=\"https://lhediscoveryprod.service-now.com/kb?id=kb_article_view&amp;sysparm_article=KB0012548\" target=\"_blank\" rel=\"noreferrer\">KB article</a>. </p>
+<p>Please see the following KB for additional information <a href=\"https://lhediscoveryprod.service-now.com/kb?id=kb_article_view&amp;sysparm_article=KB0015140\" target=\"_blank\" rel=\"noreferrer\">Upload to Relativity</a></p>",false,1596228883000,8096,false,"","",false,"","",false,false,false,false,1596229283000,"","","","","","",""
+15,LIL-002,Providing Feedback - LinkedIn Learning,<p>Giving and receiving feedback.</p>,false,1561641604000,"",false,"","",true,"","",false,false,false,false,1561642167000,"","","","","","",""
+24,LIL-011,Onboarding New Hires - LinkedIn Learning,<p>Set your new hire up for success. </p>,false,1561644380000,"",false,"","",true,"","",false,false,false,false,1561644380000,"","","","","","",""
+65,SD-INS-PROC TECH-NH-200,SD PROC TECH - 60 Day Onboarding Training,<p>60 day learning plan for the position of Processing Technician.  Start this plan after completing the 30 day plan.</p>,false,1565650003000,"",false,"","",false,"","",false,false,false,false,1565650003000,"","","","","","",""
+125,"",Blackout Training Videos - Updated,<p>A collection of videos to learn Blackout.</p>,false,1653060434000,14,false,"","",false,"","",false,false,false,false,1653060434000,"","","","",14409,"",""
+63,SD-INS-IN TECH-NH-200,SD IN TECH - 60 Day Intake Technician Onboarding Training,<p>60 day learning plan for the position of Intake Technician.  Start this plan after completing this position's 30 day plan</p>,false,1565379373000,"",false,"","",false,"","",false,false,false,false,1565379627000,"","","","","","",""
+23,LIL-010,Lean Principles & Problem Solving - LinkedIn Learning,<p>Lean Problem Solving</p>,false,1561644191000,"",false,"","",true,"","",false,false,false,false,1561644276000,"","","","","","",""
+26,LIL-013,Developing Talent - LinkedIn Learning,"<p>Define, coach, develop your employees.</p>",false,1561644784000,"",false,"","",true,"","",false,false,false,false,1561644784000,"","","","","","",""
+2,NH-100,RCOB001 Review Consultants - 30 Day: New Hire Training - DO NOT USE,<p>30 day learning plan for the RC team. </p>,false,1650309908000,254,false,"","",true,"","",false,false,false,true,1650309908000,"","","","","","",""
+96,CS-CUO-002,CUO | Client Services Onboarding - Week 2,"<p>Welcome to Week 2 of onboarding to our unified work order system and surrounding technologies. This second week will cover the remainder processes in the work order system along with some jobs in the old architecture that this group will continue to use until we have migrated all processes into the new architecture work order system - an effort we are trying to close by the end of 2022.</p>
+<ul><li>Pre-Processed Data</li>
+<li>Image Sweeps</li>
+<li>Relativity Productions</li>
+<li>HS Requests</li>
+<li>SD/ETS Tasks</li>
+<li>Archive and Purge Requests</li>
+<li>Queue Management</li>
+<li>Quality Incidents and Tracking</li>
+<li>Timekeeping</li>
+<li>InSite Reporting</li>
+</ul><p>Please keep in mind that these courses will be supplemented with hands-on training sessions in the coming weeks. If you have any questions, feel free to jot them down and raise during the Q&amp;A sessions, with your SEA/NY aligned pod, and/or supporting BizOps and TS&amp;E resources.</p>",false,1653488693000,"",false,"","",false,"","",false,false,false,true,1653488693000,"","","","","","",""
+61,CS-INS-DA-NH-200,CS DA - 60 Day Onboarding Training,<p>60 day learning plan for the position of Discovery Analyst.  Begin this plan after completing this role's 30 day plan.</p>,false,1565217554000,"",false,"","",false,"","",false,false,false,false,1565217554000,"","","","","","",""
+103,CUO-L-Form-007,CUO Work Order -Before Filter Analytics,"<p><span class=\"TextRun SCXW210482103 BCX0\" lang=\"en-us\" style=\"font-size:11pt;font-family:Calibri, 'Calibri_EmbeddedFont', 'Calibri_MSFontService', sans-serif;\">CUO Work Order Training Support for all of SD. This learning plan includes:</span></p>
+<p><span style=\"text-decoration:underline;\"><span class=\"TextRun SCXW210482103 BCX0\" lang=\"en-us\" style=\"font-size:11pt;font-family:Calibri, 'Calibri_EmbeddedFont', 'Calibri_MSFontService', sans-serif;\">Before Filter Analytics</span><span class=\"EOP SCXW210482103 BCX0\" style=\"font-size:11pt;font-family:Calibri, 'Calibri_EmbeddedFont', 'Calibri_MSFontService', sans-serif;\"> </span></span></p>
+<p><strong>CS Services</strong></p>
+<p><a href=\"https://lhediscoveryprod.service-now.com/kb?id=kb_article_view&amp;sysparm_article=KB0016219\" target=\"_blank\" rel=\"noreferrer\">01_Provide Specifications (Client Services)</a></p>
+<p><a href=\"https://lhediscoveryprod.service-now.com/lhe?id=kb_article_view&amp;sysparm_article=KB0016239\" target=\"_blank\" rel=\"noreferrer\">02_QC Specifications (Client Services)</a></p>
+<p><strong>Hosting</strong></p>
+<p><a href=\"https://lhediscoveryprod.service-now.com/kb_view.do?sysparm_article=KB0015569\" target=\"_blank\" rel=\"noreferrer\">03_Before Filter Analytics (Hosting)</a></p>
+<p><a href=\"https://lhediscoveryprod.service-now.com/kb_view.do?sysparm_article=KB0015570\" target=\"_blank\" rel=\"noreferrer\">04_Before Filter Analytics QC (Hosting)</a></p>
+<p><strong>All</strong></p>",false,1616532095000,"",false,"","",false,"","",false,false,false,true,1616714419000,"","","","","","",""
+95,CS-CUO-001,CUO | Client Services Onboarding - Week 1,"<p>CUO | Client Services Phase 2 - Week 1</p>
+<p> </p>
+<p>Welcome to Week 1 of onboarding to our unified work order system and surrounding technologies. This first week will cover an onboarding introduction, an overview of the end-to-end workflow, and the beginnings of the work order system:</p>
+<ul><li>Onboarding Intro</li>
+<li>End-to-End Internal Workflow</li>
+<li>Matter Initiation</li>
+<li>Data Receipts, Intake, and Advanced Malware Security Scan</li>
+<li>Core Processing</li>
+<li>Major Exceptions Processing</li>
+<li>Decryption Processing</li>
+<li>ChatSmart Processing</li>
+<li>Search Term Normalization (STN) and Filter</li>
+<li>Review</li>
+<li>Analytics</li>
+</ul><p>Please keep in mind that these courses will be supplemented with hands-on training sessions in the coming weeks. If you have any questions, feel free to jot them down and raise during the Q&amp;A sessions, with your SEA/NY aligned pod, and/or supporting BizOps and TS&amp;E resources.</p>
+<p> </p>",false,1645566503000,"",false,"","",false,"","",false,false,false,true,1650543272000,"","","","","","",""
+72,"",Annual Review – People Managers,<p><strong>Annual Reflection Learning Collection for People Manager </strong></p>,false,1576248391000,"",false,"","",false,"","",false,false,false,false,1576248391000,"","","","","","",""
+42,LIL-029,Time Management - LinkedIn Learning,<p>Time management foundations</p>,false,1561647716000,"",false,"","",true,"","",false,false,false,false,1561647716000,"","","","","","",""
+29,LIL-016,Finance & Business for Non-financial People - LinkedIn Learning,<p>Introduction to finance essentials</p>,false,1561645476000,"",false,"","",true,"","",false,false,false,false,1561645476000,"","","","","","",""
+5,SPECTRA-100,Spectra,<p>Spectra Overview</p>,false,1553887767000,21,false,"","",false,"","",false,false,false,false,1553887767000,"","","","","","",""
+20,LIL-007,SQL - LinkedIn Learning,<p>Get familiar with SQL.</p>,false,1561643394000,"",false,"","",true,"","",false,false,false,false,1561643394000,"","","","","","",""
+70,CS-QB-PM-NH-100,CS PM (Quickbase) - 30 Day Onboarding Plan,<p>30 day learning plan for the position of PM - Quickbase workflow</p>,false,1569855429000,"",false,"","",true,"","",false,false,false,true,1569855429000,"","","","","","",""
+4,NH-300,RS - 90 Day: New Hire Training,<p>90 day learning plan for RS team. </p>,false,1560530594000,254,false,"","",true,"","",false,false,false,false,1656004689000,"","","","","","",""
+47,SD-INS-SR PROD TECH-NH-100,SD SR PROD TECH - 30 Day Onboarding Training,<p>30 day learning plan for the position of Sr Production Technician</p>,false,1562098395000,"",false,"","",true,"","",false,false,false,false,1565725507000,"","","","","","",""
+123,"",Integration eDiscovery Gold Workflow,"<p>Welcome to the onboarding of our integrated work order system and surrounding technologies.  These courses will cover each process in the eDiscovery workflow.  Please keep in mind that these courses will be supplemented with hands-on training sessions. If you have any questions, post them in the Teams channel, bring them up during the Q&amp;A session, or reach out directly to TS&amp;E.</p>",false,1654627302000,26,false,"","",true,"","",false,false,false,true,1656075805000,"","","","",15198,"",""
+48,Rel-002,Preparing to take the RCA,<p>This learning plan will help Lighthouse users prepare for the RCA exam. </p>,false,1568302852000,280,false,"","",false,"","",false,false,false,false,1568302852000,"","","","","","",""
+87,RS-SSCert-001,ReviewSmart Training,"<p>A group of short videos that will outline the following:</p>
+<ul><li>Introduction to ReviewSmart 
+<ul><li>What is ReviewSmart? How do we use it here at Lighthouse? This course will provide an introduction to ReviewSmart. </li>
+</ul></li>
+<li>Install and Configure
+<ul><li>
+<p>Please see the following KB articles for additional information. </p>
+<p><a href=\"https://lhediscoveryprod.service-now.com/kb_view.do?sysparm_article=KB0014641\" target=\"_blank\" rel=\"noreferrer\">Install ReviewSmart</a></p>
+<p><a href=\"https://lhediscoveryprod.service-now.com/kb_view.do?sysparm_article=KB0014645\" target=\"_blank\" rel=\"noreferrer\">Setup ReviewSmart</a></p>
+</li>
+</ul></li>
+<li>ReviewSmart: Analyze and Propagate
+<ul><li>Please see the following KB for additional information: <a href=\"https://lhediscoveryprod.service-now.com/kb_view.do?sysparm_article=KB0014643\" target=\"_blank\" rel=\"noreferrer\">ReviewSmart - Analyze and Propagate</a></li>
+</ul></li>
+</ul><ul><li>How to handle conflicts
+<ul><li>Please see the following KB for more information: <a href=\"https://lhediscoveryprod.service-now.com/kb_view.do?sysparm_article=KB0014644\" target=\"_blank\" rel=\"noreferrer\">ReviewSmart - How to Handle Conflicts</a></li>
+</ul></li>
+<li>ReviewSmart: Fields
+<ul><li>Please see the following KB for more information: <a href=\"https://lhediscoveryprod.service-now.com/kb_view.do?sysparm_article=KB0014642\" target=\"_blank\" rel=\"noreferrer\">ReviewSmart User Fields</a>. </li>
+</ul></li>
+</ul>",false,1594418858000,273,false,"","",false,"","",false,false,false,true,1620167902000,"","","","","","",""
+76,LHX-DAY3,Lighthouse Experience - Day 3,<p>Day 3 focuses on getting to know who the teams are at Lighthouse and who our clients are.</p>,false,1642007088000,316,false,"","",false,"","",false,false,false,false,1642007088000,"","","","","","",""
+120,REVSMARTCERT000,REVS Certification Program,<p>This is the certification learning plan for ReviewSmart.</p>,false,1655483799000,273,false,"","",false,"","",false,false,false,true,1655483799000,"","","","",14409,"",""
+71,"",Annual Review – All,<p><strong>Annual Reflection Learning Collection</strong></p>,false,1576248345000,"",false,"","",false,"","",false,false,false,false,1576248345000,"","","","","","",""
+104,CUO-L-Form-008,CUO Work Order - Filter,"<p>CUO Work Order Training Support for all of SD. This learning plan includes:</p>
+<p><span style=\"text-decoration:underline;\">Filter</span></p>
+<p><strong>CS Services</strong></p>
+<p><a href=\"https://lhediscoveryprod.service-now.com/kb?id=kb_article_view&amp;sysparm_article=KB0016170\" target=\"_blank\" rel=\"noreferrer\">01_Provide Specifications (Client Services)</a></p>
+<p><a href=\"https://lhediscoveryprod.service-now.com/lhe?id=kb_article_view&amp;sysparm_article=KB0016239\" target=\"_blank\" rel=\"noreferrer\">02_QC Specifications (Client Services)</a></p>
+<p>05_Filter Approval (Client Services)</p>
+<p><strong>Search</strong></p>
+<p><a href=\"https://lhediscoveryprod.service-now.com/kb_view.do?sysparm_article=KB0015573\" target=\"_blank\" rel=\"noreferrer\">03_Filter (Search)</a></p>
+<p><a href=\"https://lhediscoveryprod.service-now.com/kb_view.do?sysparm_article=KB0015574\" target=\"_blank\" rel=\"noreferrer\">04_Filter QC (Search)</a></p>
+<p><strong>All </strong></p>",false,1616532376000,"",false,"","",false,"","",false,false,false,true,1616714479000,"","","","","","",""
+85,LEAD-B02,Leading at Lighthouse: Block 2,"<p><img src=\"https://cdn5.dcbstatic.com/files/l/i/lighthouseglobal_docebosaas_com/userfiles/13586/roadmap_block2v2.png\" alt=\"\" width=\"850\" height=\"346\"></p>",false,1593283406000,8175,false,"","",true,"","",false,false,false,true,1594950629000,"","","","","","",""
+102,CUO-L-Form-006,CUO Work Order - Replacement,"<p>CUO Work Order Training Support for all of SD. This learning plan includes:</p>
+<p><span style=\"text-decoration:underline;\">Replacement</span></p>
+<p><strong>CS Services</strong></p>
+<p>01_Provide Specifications (Client Services)</p>
+<p>02_QC Specifications (Client Services)</p>
+<p><strong>CPTS</strong></p>
+<p>04_Decryption Auto-Processing CPTS</p>
+<p><strong>Processing</strong></p>
+<p>03a_Stage Data (Processing)</p>
+<p>03b_Stage Data QC (Processing)</p>
+<p>05_Non-English OCR (Processing)</p>
+<p><strong>Hosting</strong></p>
+<p>06_Decryption Post-Load (Hosting)</p>
+<p>07_Decryption Post-Load QC (Hosting)</p>
+<p><strong>All </strong></p>",false,1616531748000,"",false,"","",false,"","",false,false,false,true,1616714379000,"","","","","","",""
+121,RCOB001,RCOB001 30 Day Onboarding Plan,<p>The first part of the 30/60/90 Day Onboarding Learning Plan for the Review Consultants Team.</p>,false,1653488693000,298,false,"","",true,"","",false,false,false,true,1653488693000,"","","","",14409,"",""
+37,LIL-024,Ingenuity - LinkedIn Learning,"<p>Innovation doesn’t just happen… we make it happen. We know that the best ideas are born from insatiable curiosity, and become reality through creativity, skill, and expertise. We will always find a new and better way.</p>",false,1561646829000,"",false,"","",true,"","",false,false,false,false,1561646829000,"","","","","","",""
+31,LIL-018,Sales 101 - LinkedIn Learning,<p>Sales essentials</p>,false,1561645857000,"",false,"","",true,"","",false,false,false,false,1561645857000,"","","","","","",""
+77,LHX-DAY4,Lighthouse Experience - Day 4,<p>Day 4 focuses on getting to know the teams at Lighthouse.</p>,false,1654882194000,316,false,"","",false,"","",false,false,false,false,1654882194000,"","","","","","",""
+73,RA-007,RA Conceptual Analytics,"<p><span style=\"color:#48484a;\">This learning plan will be used to show the features and use of  Conceptual Analytics. </span></p>",false,1581531261000,"",false,"","",false,"","",false,false,false,false,1581531261000,"","","","","","",""
+78,LHX-DAY5,Lighthouse Experience - Day 5,<p>Day 5 focuses on You!</p>,false,1642007129000,316,false,"","",false,"","",false,false,false,false,1642007129000,"","","","","","",""
+67,SD-INS-SR PROD TECH-NH-200,SD SR PROD TECH - 60 Day Onboarding Training,<p><br>60 day learning plan for the position of Sr Production Technician.  Start this plan after completing this position's 30 day plan</p>,false,1565729809000,"",false,"","",false,"","",false,false,false,false,1565729809000,"","","","","","",""
+115,TEST-20210604-02,20210604 - TEST02,<p>Testing LiL links</p>,false,1622843152000,"",false,"","",false,"","",false,false,false,false,1622843152000,"","","","","","",""
+54,CS-INS-PM-NH-200,CS PM - 60 Day Onboarding Plan,<p>60 day learning plan for the position of Project Manager.  Begin this plan after completing this role's 30 day plan.</p>,false,1565024874000,"",false,"","",false,"","",false,false,false,false,1565039635000,"","","","","","",""
+36,LIL-023,Grit - LinkedIn Learning,"<p>We are passionate people of substance – of sheer will power. We find the stamina to dig deeper and push harder, the courage to stand fast when things get rough, and the conviction that greatness is worth fighting for.</p>",false,1584976872000,"",false,"","",true,"","",false,false,false,false,1584976872000,"","","","","","",""
+108,RS-CUO-001,CUO | Review Solutions Phase 2 - Week 1,"<p>This Learning Plan contains the following:<br><br><a href=\"https://lhediscoveryprod.service-now.com/kb_view.do?sysparm_article=KB0013835\" target=\"_blank\" rel=\"noreferrer\">InSite Timekeeping</a></p>
+<p>SEA and SF CORE Fields Comparison</p>
+<ul><li>
+<p><a href=\"https://lhediscoveryprod.service-now.com/kb_view.do?sysparm_article=KB0013682\" target=\"_blank\" rel=\"noreferrer\">Core Field List</a></p>
+</li>
+<li>
+<p><a href=\"https://lighthouseediscovery.sharepoint.com/:w:/r/sites/CUO/Shared%20Documents/CUO%20Program/SD%20Integration/Phase%202%20Discover/_Supporting%20Documents/Core/SEA%20and%20SF%20Field%20Differences.docx?d=w09c61ecfc7b34637aaf0d5e8caff76cc&amp;csf=1&amp;web=1&amp;e=fs4U0W\" target=\"_blank\" rel=\"noreferrer\">SEA and SF Field Differences</a></p>
+</li>
+</ul>",false,1619719648000,"",false,"","",false,"","",false,false,false,false,1619719648000,"","","","","","",""
+90,LHX-MGR,Lighthouse Experience for Hiring Managers,"<p>Refer to this learning plan when you have a new hire starting to ensure you're completing your responsibilities as their hiring manager.</p>
+<p>Links you'll need are:</p>
+<ul><li><a href=\"https://360.articulate.com/review/content/0939913b-5b8c-4956-85dc-cf18da590745/review\">Lighthouse Experience Playbook</a></li>
+<li><a href=\"https://lighthouseglobal.docebosaas.com/learn/dashboard/channel/37\">New to Lighthouse channel</a></li>
+<li><a href=\"https://lighthouseglobal.docebosaas.com/learn/dashboard/channel/43\">Training Resources for Managers channel</a></li>
+<li><a href=\"https://lighthouseglobal.docebosaas.com/share/asset/view/32\">Employee Onboarding Immersion Plan</a></li>
+</ul><p>Below is the link to the live webinar session, or you can view the video recording of it.</p>",false,1598046161000,316,false,"","",true,"","",false,false,false,false,1598046421000,"","","","","","",""
+38,LIL-025,Camaraderie - LinkedIn Learning,"<p>This is much more than a job. It’s a place to discover your place. Where we each can learn, lean in, step up, and shine. Here, we lock arms within and across teams – united in reaching a common goal, and helping each other grow along the way.</p>",false,1561646973000,"",false,"","",true,"","",false,false,false,false,1561646973000,"","","","","","",""
+34,LIL-021,Data Visualization - LinkedIn Learning,<p>Data visualization</p>,false,1561646327000,"",false,"","",true,"","",false,false,false,false,1561646327000,"","","","","","",""
+52,CS-INS-APM-NH-200,CS APM - 60 Day Onboarding Plan,<p>60 day learning plan for the position of Associate PM.  Begin this plan after completing this role's 30 day plan.</p>,false,1563232730000,"",false,"","",false,"","",false,false,false,false,1563232730000,"","","","","","",""
+74,LHX-DAY1,Lighthouse Experience - Day 1,"<p style=\"color:#333333;font-size:13px;\">Day 1 focuses on helping you to get settled in and acquainted with Lighthouse. </p>",false,1654882579000,316,false,"","",false,"","",false,false,false,true,1654882579000,"","","","","","",""
+128,RCOB09,RCOB90 90 Day Learning Plan,<p>90 day plan for Review Consulting onboarding.</p>,false,1655922457000,316,false,"","",false,"","",false,false,false,false,1655922457000,"","","","",14409,"",""
+19,LIL-006,Wow Factor - LinkedIn Learning,"<p>Attentiveness, responsiveness, and perceptiveness are concepts that define us and any room we occupy.  For us, delighting our clients is an obsession – a platinum standard – for how we engage with clients, both internally and externally, and deliver value with integrity.</p>",false,1561642923000,"",false,"","",true,"","",false,false,false,false,1561647049000,"","","","","","",""
+92,CS-PLAY-001,Client Services Playbook Learning Plan,"<p>A Learning Plan containing Client Services Playbook article links, videos, and quizzes. </p>",false,1631111841000,"",false,"","",false,"","",false,false,false,true,1631111841000,"","","","","","",""
+109,RS-CUO-002,CUO | Review Solutions Phase 2 - Week 2,"<p>This Learning Plan contains the following courses:</p>
+<p> InSite New Architecture Processes  </p>
+<p> InSite: HS Requests and ES/Hosting RACI </p>",false,1619719821000,"",false,"","",false,"","",false,false,false,false,1619719821000,"","","","","","",""
+93,LEAD-LLH,Leading at Lighthouse: Post-Program Assessment Block,"<p style=\"font-size:17px;font-family:Raleway;\">Congratulations on completing the four self-directed learning plans...you're almost a Leading@Lighthouse graduate.</p>
+<p style=\"font-size:17px;font-family:Raleway;\"> </p>
+<p style=\"font-size:17px;font-family:Raleway;\">To graduate, you now need to</p>
+<ul style=\"font-size:17px;font-family:Raleway;\"><li style=\"font-size:inherit;\">Complete the <span style=\"color:#db6d27;font-size:inherit;\"><span style=\"font-size:inherit;\">People Management Fundamentals</span></span> <span style=\"color:#db6d27;font-size:inherit;\"><span style=\"font-size:inherit;\">self-assessment </span></span><span style=\"color:#313537;font-size:inherit;\">and discuss with your manager.</span></li>
+<li style=\"font-size:inherit;\">Complete the <span style=\"color:#db6d27;font-size:inherit;\"><span style=\"font-size:inherit;\">Lighthouse Leadership Competencies</span></span> <span style=\"color:#db6d27;font-size:inherit;\"><span style=\"font-size:inherit;\">self-assessment </span></span><span style=\"color:#313537;font-size:inherit;\">and discuss with your manager.</span></li>
+<li style=\"font-size:inherit;\">Pass the <span style=\"color:#db6d27;font-size:inherit;\"><span style=\"font-size:inherit;\">Leading@Lighthouse Program Post-Test</span></span>.</li>
+</ul>",false,1605568219000,8237,false,"","",false,"","",false,false,false,true,1610475155000,"","","","","","",""
+44,LIL-031,Delegation - LinkedIn Learning,<p>Effective delegation</p>,false,1561647987000,"",false,"","",true,"","",false,false,false,false,1561647987000,"","","","","","",""
+119,CS-Align-000,Realignment Learning Plan,"<p><img src=\"https://cdn5.dcbstatic.com/files/l/i/lighthouseglobal_docebosaas_com/userfiles/13106/realignment_learning_gif.gif\" alt=\"Realignment Learning Plan\" width=\"1366\" height=\"768\"></p>",false,1646760539000,"",false,"","",true,"","",false,false,false,true,1646760539000,"","","","",13106,"",""
+64,SD-INS-IN TECH-NH-300,SD IN TECH - 90 Day Intake Technician Onboarding Training,<p>90 day learning plan for the position of Intake Technician.  Start this plan after completing this position's 60 day plan</p>,false,1565624018000,"",false,"","",false,"","",false,false,false,false,1565624018000,"","","","","","",""
+50,SD-INS-ETS-Que Manager-NH-100,SD ETS QUE MANAGER - 30 Day Onboarding Training,<p>30 day learning plan for the position of ETS Que Manager</p>,false,1562708643000,"",false,"","",true,"","",false,false,false,false,1562960151000,"","","","","","",""
+18,LIL-005,Servant Leadership - LinkedIn Learning,<p>How to lead using Servant Leadership. </p>,false,1562162911000,"",false,"","",true,"","",false,false,false,false,1562162911000,"","","","","","",""
+91,ETS-IDS-001,Lighthouse Training Video Recordings | Troubleshooting for IDS,<p>Lighthouse Training Video Recordings | Troubleshooting for IDS</p>,false,1600460169000,"",false,"","",false,"","",false,false,false,false,1600460169000,"","","","","","",""
+107,CUO - L-FormBZ001,CUO Work Order - Orientation,<p>CUO Work Order - Orientation</p>,false,1616699787000,"",false,"","",false,"","",false,false,false,true,1616714718000,"","","","","","",""
+80,LHX-WEEK3,Lighthouse Experience - Week 3,"<p>In Week 3, you'll be crafting your own success plan.</p>",false,1642007150000,316,false,"","",false,"","",false,false,false,false,1642007150000,"","","","","","",""
+30,LIL-017,Interviewing Skills - LinkedIn Learning,<p>Interviewing questions and techniques.</p>,false,1561645673000,"",false,"","",true,"","",false,false,false,false,1561645673000,"","","","","","",""
+81,LHX-WEEK4,Lighthouse Experience - Week 4,<p>Week 4 is the final learning plan for Lighthouse Experience.</p>,false,1588104356000,316,false,"","",false,"","",false,false,false,false,1588104356000,"","","","","","",""
+1,"",New Hire,<p>New Hire</p>,false,1553282386000,"",false,"","",false,"","",false,false,false,false,1553282386000,"","","","","","",""
+53,CS-INS-APM-NH-300,CS APM - 90 Day Onboarding Plan,<p>90 day learning plan for the position of Associate PM.  Begin this plan after completing this role's 60 day plan.</p>,false,1563560264000,"",false,"","",false,"","",false,false,false,false,1563560264000,"","","","","","",""
+75,LHX-DAY2,Lighthouse Experience - Day 2,"<p>Day 2 focuses on Lighthouse values, culture, and eDiscovery.</p>",false,1642007066000,316,false,"","",false,"","",false,false,false,false,1642007066000,"","","","","","",""
+122,KDI-001,KDI Contributor Training,<p><strong>KDI Contributor Training</strong></p>,false,1651235278000,"",false,"","",true,"","",false,false,false,true,1651235278000,"","","","",13106,"",""
+97,CUO-L-Form-001,CUO Work Order - Search Term Normalization,"<p>CUO Work Order Training Support for all of SD. This learning plan includes:</p>
+<p><span style=\"text-decoration:underline;\">Search Term Normalization</span></p>
+<p><strong>CS Services</strong></p>
+<p><a href=\"https://lhediscoveryprod.service-now.com/kb?id=kb_article_view&amp;sysparm_article=KB0016158\" target=\"_blank\" rel=\"noreferrer\">01_Provide Specifications</a></p>
+<p><a href=\"https://lhediscoveryprod.service-now.com/lhe?id=kb_article_view&amp;sysparm_article=KB0016239\" target=\"_blank\" rel=\"noreferrer\">02_QC Specifications</a></p>
+<p>05_Search Term Approval</p>
+<p><strong>Search Team</strong></p>
+<p><a href=\"https://lhediscoveryprod.service-now.com/kb_view.do?sysparm_article=KB0015510\" target=\"_blank\" rel=\"noreferrer\">03_Search Term Normalization (Search)</a></p>
+<p><a href=\"https://lhediscoveryprod.service-now.com/kb_view.do?sysparm_article=KB0015511\" target=\"_blank\" rel=\"noreferrer\">04_Search Term Normalization QC (Search)</a></p>",false,1616709679000,"",false,"","",false,"","",false,false,false,true,1616709679000,"","","","","","",""
+68,SD-INS-SR PROD TECH-NH-300,SD SR PROD TECH - 90 Day Onboarding Training,<p>90 day learning plan for the position of Sr Production Technician.  Start this plan after completing this position's 60 day plan</p>,false,1565735220000,"",false,"","",false,"","",false,false,false,false,1565735220000,"","","","","","",""
+86,LEAD-B03,Leading at Lighthouse: Block 3,"<p><img src=\"https://cdn5.dcbstatic.com/files/l/i/lighthouseglobal_docebosaas_com/userfiles/13586/roadmap_block3.png\" alt=\"\" width=\"850\" height=\"346\"></p>",false,1593559176000,8241,false,"","",true,"","",false,false,false,true,1607456670000,"","","","","","",""
+99,CUO-L-Form-003,CUO Work Order - Major Exceptions,"<p>CUO Work Order Training Support for all of SD. This learning plan includes:</p>
+<p><span style=\"text-decoration:underline;\">Major Exceptions</span></p>
+<p><strong>CS Services</strong></p>
+<p><a href=\"https://lhediscoveryprod.service-now.com/kb?id=kb_article_view&amp;sysparm_article=KB0016157\" target=\"_blank\" rel=\"noreferrer\">01_Provide Specifications (Client Services)</a></p>
+<p><a href=\"https://lighthouseglobal.docebosaas.com/admin/%E2%80%A2%20QC%20Specs%20-%20Core%20Processing,%20Search%20Term%20Normalization,%20Filter,%20Review,%20Analytics%20(New%20Archictecture)\" target=\"_blank\" rel=\"noreferrer\">02_QC Specifications (Client Services)</a></p>
+<p><strong>CPTS</strong></p>
+<p>05_Auto Processing (Major Exceptions)</p>
+<p><strong>Processing</strong></p>
+<p><a href=\"https://lhediscoveryprod.service-now.com/kb_view.do?sysparm_article=KB0015887\" target=\"_blank\" rel=\"noreferrer\">03_Repair Major Exceptions (Processing)</a></p>
+<p><a href=\"https://lhediscoveryprod.service-now.com/kb_view.do?sysparm_article=KB0015980\" target=\"_blank\" rel=\"noreferrer\">04_Create Datasets (Processing)</a></p>
+<p>06_Non-English OCR (Processing)</p>
+<p>09_Export Encrypted Natives (Processing)</p>
+<p>10_Export Encrypted Natives QC (Processing)</p>
+<p><strong>Hosting</strong></p>
+<p><a href=\"https://lhediscoveryprod.service-now.com/kb_view.do?sysparm_article=KB0015530\" target=\"_blank\" rel=\"noreferrer\">07_Post-Load (Hosting)</a></p>
+<p><a href=\"https://lhediscoveryprod.service-now.com/kb_view.do?sysparm_article=KB0015531\" target=\"_blank\" rel=\"noreferrer\">08_Post-Load QC (Hosting)</a></p>
+<p><strong>All </strong></p>",false,1616530135000,"",false,"","",false,"","",false,false,false,true,1616714226000,"","","","","","",""
+113,NH-103,Search Team - 90 Day New Hire Plan,<p>Search Team 90 day new hire learning plan. </p>,false,1620247661000,"",false,"","",false,"","",false,false,false,false,1620247661000,"","","","","","",""
+117,KDI-000,KDI Initial Training,"<p>This is the KDI Initial Training series, aimed at new hires in the RMA who will be performing the Key Document Identification service.</p>",false,1637157246000,"",false,"","",true,"","",false,false,false,true,1650454674000,"","","","",13106,"",""
+14,SD-INS-PROC TECH-NH-100,SD PROC TECH - 30 Day Processing Technician Onboarding Training,<p><br>30 day learning plan for the position of Processing Technician Onboarding Training</p>,false,1561674193000,"",false,"","",true,"","",false,false,false,false,1565631554000,"","","","","","",""
+22,LIL-009,Consulting Foundations - LinkedIn Learning,<p>Consulting foundations.</p>,false,1561643956000,"",false,"","",true,"","",false,false,false,false,1561655629000,"","","","","","",""
+10,CS-INS-PM-NH-100,CS PM - 30 Day Onboarding Plan,<p>30 day learning plan for the position of PM</p>,false,1561414350000,"",false,"","",true,"","",false,false,false,false,1565039661000,"","","","","","",""
+89,LEAD-B04,Leading at Lighthouse: Block 4,"<p><img src=\"https://cdn5.dcbstatic.com/files/l/i/lighthouseglobal_docebosaas_com/userfiles/13586/roadmap_block4.png\" alt=\"\" width=\"964\" height=\"393\"></p>",false,1596237406000,8225,false,"","",false,"","",false,false,false,false,1596574388000,"","","","","","",""
+49,SD-INS-CPTS-NH-100,SD CPTS - 30 Day Onboarding Training,"<p>30 day learning plan for the positions of Client Support Analyst, Custom Support Analyst, and Operations Development Support</p>",false,1562195212000,"",false,"","",true,"","",false,false,false,false,1562960116000,"","","","","","",""
+106,CUO-L-Form-010,CUO Work Order - Review,"<p>CUO Work Order Training Support for all of SD. This learning plan includes:</p>
+<p><span style=\"text-decoration:underline;\">Review</span></p>
+<p><strong>CS Services</strong></p>
+<p><a href=\"https://lhediscoveryprod.service-now.com/kb?id=kb_article_view&amp;sysparm_article=KB0016217\" target=\"_blank\" rel=\"noreferrer\">01_Provide Specifications (Client Services)</a></p>
+<p><a href=\"https://lhediscoveryprod.service-now.com/lhe?id=kb_article_view&amp;sysparm_article=KB0016239\" target=\"_blank\" rel=\"noreferrer\">02_QC Specifications (Client Services)</a></p>
+<p><strong>Hosting</strong></p>
+<p><a href=\"https://lhediscoveryprod.service-now.com/kb_view.do?sysparm_article=KB0015582\" target=\"_blank\" rel=\"noreferrer\">03_Promote (Hosting)</a></p>
+<p><a href=\"https://lhediscoveryprod.service-now.com/kb_view.do?sysparm_article=KB0015583\" target=\"_blank\" rel=\"noreferrer\">04_Promote QC (Hosting)</a></p>
+<p><a href=\"https://lhediscoveryprod.service-now.com/kb_view.do?sysparm_article=KB0015584\" target=\"_blank\" rel=\"noreferrer\">05_Review (Hosting)</a></p>
+<p><a href=\"https://lhediscoveryprod.service-now.com/kb_view.do?sysparm_article=KB0015585\" target=\"_blank\" rel=\"noreferrer\">06_Review QC (Hosting)</a></p>
+<p><a href=\"https://lhediscoveryprod.service-now.com/kb?id=kb_article_view&amp;sysparm_article=KB0015585\" target=\"_blank\" rel=\"noreferrer\">04_After Filter Analytics QC (Hosting)</a></p>
+<p><strong>All </strong></p>",false,1619039186000,"",false,"","",false,"","",false,false,false,true,1619039186000,"","","","","","",""
+41,LIL-028,Growth Mindset - LinkedIn Learning,"<p>Learn about creating a \"Growth Mindset\"</p>",false,1561647468000,"",false,"","",true,"","",false,false,false,false,1561647468000,"","","","","","",""
+101,CUO-L-Form-005,CUO Work Order - ChatSmart,"<p>CUO Work Order Training Support for all of SD. This learning plan includes:</p>
+<p><span style=\"text-decoration:underline;\">ChatSmart</span></p>
+<p><strong>CS Services</strong></p>
+<p>01_Provide Specifications (Client Services)</p>
+<p>02_QC Specifications (Client Services)</p>
+<p><strong>CPTS</strong></p>
+<p>06c_ChatSmart Core Setup (CPTS)</p>
+<p>07_ChatSmart Auto-Processing (CPTS)</p>
+<p><strong>Processing</strong></p>
+<p><a href=\"https://lhediscoveryprod.service-now.com/kb_view.do?sysparm_article=KB0015548\" target=\"_blank\" rel=\"noreferrer\">03_ChatSmart Ingestion/Filtering/Export (Processing)</a></p>
+<p><a href=\"https://lhediscoveryprod.service-now.com/kb_view.do?sysparm_article=KB0015549\" target=\"_blank\" rel=\"noreferrer\">04_ChatSmart Ingestion/Filtering/Export QC (Processing)</a></p>
+<p><a href=\"https://lhediscoveryprod.service-now.com/kb_view.do?sysparm_article=KB0015550\" target=\"_blank\" rel=\"noreferrer\">05_Create ChatSmart Datasets (Processing)</a></p>
+<p>06a_Stage Data (Processing)</p>
+<p><a href=\"https://lhediscoveryprod.service-now.com/kb_view.do?sysparm_article=KB0015554\" target=\"_blank\" rel=\"noreferrer\">06b_Stage Data QC (Processing)</a></p>
+<p>08_Non-English OCR (Processing)</p>
+<p><strong>Hosting</strong></p>
+<p><a href=\"https://lhediscoveryprod.service-now.com/kb_view.do?sysparm_article=KB0015554\" target=\"_blank\" rel=\"noreferrer\">06d_ChatSmart RAP Install (Hosting)</a></p>
+<p>09_ChatSmart Post-Load (Hosting)</p>
+<p>10_ChatSmart Post-Load QC (Hosting)</p>
+<p><strong>All</strong></p>",false,1616531234000,"",false,"","",false,"","",false,false,false,true,1616714265000,"","","","","","",""
+55,"",Lori test,"<p><img src=\"https://cdn5.dcbstatic.com/files/l/i/lighthouseglobal_docebosaas_com/userfiles/13586/roadmap_v2.png\" alt=\"\" width=\"875\" height=\"369\"></p>",false,1580858302000,316,false,"","",false,"","",false,false,false,false,1593208332000,"","","","","","",""
+82,LEAD-LLH-01,Leading at Lighthouse: Post-Program Assessment Block,<p>Leading at Lighthouse</p>,false,1604609474000,8234,false,"","",false,"","",false,false,false,false,1604609474000,"","","","","","",""
+21,LIL-008,Building Trust - LinkedIn Learning,<p>Using trust to lead.</p>,false,1561643823000,"",false,"","",true,"","",false,false,false,false,1561643823000,"","","","","","",""
+111,NH-101,Search Team - 30 Day New Hire Plan,<p>This learning plan contains the activities needed to complete for the 30 day new hire plan for the Search Team.</p>,false,1620247124000,"",false,"","",false,"","",false,false,false,true,1623343306000,"","","","","","",""
+98,CUO-L-Form-002,CUO Work Order - Core Processing,"<p>CUO Work Order Training Support for all of SD. This learning plan includes:</p>
+<p><strong>CS Services</strong></p>
+<p><a href=\"https://lhediscoveryprod.service-now.com/kb?id=kb_article_view&amp;sysparm_article=KB0016154\" target=\"_blank\" rel=\"noreferrer\">01_Provide Specifications (Client Services)</a></p>
+<p><a href=\"https://lighthouseglobal.docebosaas.com/admin/%E2%80%A2%20QC%20Specs%20-%20Core%20Processing,%20Search%20Term%20Normalization,%20Filter,%20Review,%20Analytics%20(New%20Archictecture)\" target=\"_blank\" rel=\"noreferrer\">02_QC Specifications (Client Services)</a></p>
+<p>10_CS Validation</p>
+<p>Metrics</p>
+<p><strong>CPTS</strong></p>
+<p>03a_Core Customization (CPTS)</p>
+<p>04_Auto Processing (CPTS)</p>
+<p><strong>Processing</strong></p>
+<p><a href=\"https://lhediscoveryprod.service-now.com/kb_view.do?sysparm_article=KB0015885\" target=\"_blank\" rel=\"noreferrer\">03b_Stage Data (Processing)</a></p>
+<p><a href=\"https://lhediscoveryprod.service-now.com/kb_view.do?sysparm_article=KB0015886\" target=\"_blank\" rel=\"noreferrer\">03c_Stage Data QC (Processing)</a></p>
+<p><a href=\"https://lhediscoveryprod.service-now.com/kb_view.do?sysparm_article=KB0015979\" target=\"_blank\" rel=\"noreferrer\">05_Non-English OCR (Processing)</a></p>
+<p>08_Export Encrypted Natives (Processing)</p>
+<p>09_Export Encrypted Natives QC (Processing)</p>
+<p><strong>Hosting</strong></p>
+<p><a href=\"https://lhediscoveryprod.service-now.com/kb_view.do?sysparm_article=KB0015520\" target=\"_blank\" rel=\"noreferrer\">06_Post-Load (Hosting)</a></p>
+<p><a href=\"https://lhediscoveryprod.service-now.com/kb_view.do?sysparm_article=KB0015521\" target=\"_blank\" rel=\"noreferrer\">07_Post-Load QC (Hosting)</a></p>
+<p>All</p>",false,1622833403000,"",false,"","",false,"","",false,false,false,true,1622833403000,"","","","","","",""
+60,SD-INS-CPTS-NH-300,SD CPTS - 90 Day Onboarding Training,"<p>90 day learning plan for the positions of Client Support Analyst, Custom Support Analyst, and Operations Development Support.  Begin this plan after completion of the 60 day learning plan.</p>",false,1565200423000,"",false,"","",false,"","",false,false,false,false,1565200423000,"","","","","","",""
+17,LIL-004,Creating a Diverse and Inclusive Team - LinkedIn Learning,<p>Learning how to diversify your team.</p>,false,1561642641000,"",false,"","",true,"","",false,false,false,false,1561642719000,"","","","","","",""
+11,CS-INS-SrPM-NH-100,CS SrPM - 30 Day Onboarding Plan,<p>30 day learning plan for the position of SrPM</p>,false,1561493380000,"",false,"","",true,"","",false,false,false,false,1565039671000,"","","","","","",""
+46,Rel-001,RA Structured Analytics,<p>This learning plan will be used to show the features and use of Relativity Analytics. </p>,false,1581531107000,280,false,"","",false,"","",false,false,false,false,1581531107000,"","","","","","",""
+32,LIL-019,New in Marketing Career - LinkedIn Learning,<p>Marketing essentials</p>,false,1561646031000,"",false,"","",true,"","",false,false,false,false,1561646031000,"","","","","","",""
+51,SD-SPECTRA-SA-NH-100,SD SPECTRA SOLUTIONS ANALYST - 90 DAY SELF-SERVE ONBOARDING PLAN,"<p><span style=\"color:#000024;font-family:SourceSansPro, 'Helvetica Neue', Arial;\">A 90-day self-serve onboarding plan for the position of Solutions Analyst on the Spectra team.</span></p>",false,1562713828000,"",false,"","",true,"","",false,false,false,false,1562960161000,"","","","","","",""
+8,CS-INS-APM-NH-100,CS APM - 30 Day Onboarding Plan,<p>30 day learning plan for Associate PM team</p>,false,1561398468000,"",false,"","",true,"","",false,false,false,true,1623343350000,"","","","","","",""
+79,LHX-WEEK2,Lighthouse Experience - Week 2,"<p>In Week 2, you'll be contributing to Lighthouse Academy!</p>",false,1614796549000,316,false,"","",false,"","",false,false,false,false,1614796549000,"","","","","","",""
+6,"",test 101 - 201,<p>test</p>,false,1649434160000,"",false,"","",false,"","",false,false,false,false,1649434160000,"","","","","","",""
+84,LEAD-B01,Leading at Lighthouse Block 1,"<p><img src=\"https://cdn5.dcbstatic.com/files/l/i/lighthouseglobal_docebosaas_com/userfiles/13586/roadmap_block1v2.png\" alt=\"\" width=\"850\" height=\"346\"></p>",false,1592432796000,8135,false,"","",true,"","",false,false,false,true,1594950455000,"","","","","","",""
+110,RelOne-001,RelativityOne Learning Plan,"<p><img src=\"https://cdn5.dcbstatic.com/files/l/i/lighthouseglobal_docebosaas_com/userfiles/13106/relone_banner_gif2.gif\" alt=\"\" width=\"640\" height=\"360\"></p>",false,1619128579000,"",false,"","",false,"","",false,false,false,true,1651242988000,"","","","","","",""
+3,NH-200,RS - 60 Day: New Hire Training,<p>60 day learning plan for RS team. </p>,false,1560530857000,254,false,"","",true,"","",false,false,false,false,1648065271000,"","","","","","",""
+28,LIL-015,Attracting Top Talent - LinkedIn Learning,"<p>Hiring, retaining, and growing top talent. </p>",false,1561645341000,"",false,"","",true,"","",false,false,false,false,1561645341000,"","","","","","",""
+35,LIL-022,Practical Change Management - LinkedIn Learning,<p>Change management essentials </p>,false,1561646494000,"",false,"","",true,"","",false,false,false,false,1561646494000,"","","","","","",""
+45,LIL-032,Leading a Team - LinkedIn Learning,<p>How to be an effective leader. </p>,false,1561648161000,"",false,"","",true,"","",false,false,false,false,1561648161000,"","","","","","",""
+105,CUO-L-Form-009,CUO Work Order - After Filter Analytics,"<p>CUO Work Order Training Support for all of SD. This learning plan includes:</p>
+<p><span style=\"text-decoration:underline;\">After Filter Analytics</span></p>
+<p><strong>CS Services</strong></p>
+<p><a href=\"https://lhediscoveryprod.service-now.com/kb?id=kb_article_view&amp;sysparm_article=KB0016220\" target=\"_blank\" rel=\"noreferrer\">01_Provide Specifications (Client Services)</a></p>
+<p><a href=\"https://lhediscoveryprod.service-now.com/lhe?id=kb_article_view&amp;sysparm_article=KB0016239\" target=\"_blank\" rel=\"noreferrer\">02_QC Specifications (Client Services)</a></p>
+<p><strong>Hosting</strong></p>
+<p><a href=\"https://lhediscoveryprod.service-now.com/kb_view.do?sysparm_article=KB0015578\" target=\"_blank\" rel=\"noreferrer\">03_After Filter Analytics (Hosting)</a></p>
+<p><a href=\"https://lhediscoveryprod.service-now.com/kb_view.do?sysparm_article=KB0015570\" target=\"_blank\" rel=\"noreferrer\">04_After Filter Analytics QC (Hosting)</a></p>
+<p><strong>All </strong></p>",false,1616532699000,"",false,"","",false,"","",false,false,false,true,1616714596000,"","","","","","",""
+127,IM0-0000,InSite DART Workflow,<p>A collection of videos covering the DART ticketing process in InSite. </p>,false,1655477800000,"",false,"","",true,"","",false,false,false,true,1655477825000,"","","","",13106,"",""
+33,LIL-020,Forensics & Data Collection - LinkedIn Learning,<p>Forensics and data collection</p>,false,1561646247000,"",false,"","",true,"","",false,false,false,false,1561646247000,"","","","","","",""
+12,CS-INS-DA-NH-100,CS DA - 30 Day Onboarding Training,<p>30 day learning plan for the position of Discovery Analyst</p>,false,1561496800000,"",false,"","",true,"","",false,false,false,false,1562960043000,"","","","","","",""
+56,CS-INS-PM-NH-300,CS PM - 90 Day Onboarding Plan,<p>90 day learning plan for the position of PM.  Begin this plan after completing this role's 60 day plan</p>,false,1565106277000,"",false,"","",false,"","",false,false,false,false,1565106277000,"","","","","","",""
+62,CS-INS-DA-NH-300,CS DA - 90 Day Onboarding Training,<p>60 day learning plan for the position of Discovery Analyst.  Begin this plan after completing this role's 60 day plan.</p>,false,1565291664000,"",false,"","",false,"","",false,false,false,false,1565291664000,"","","","","","",""
+114,TEST-20210604,20210604 - TEST,<p>Creating LP to test LiL linkage</p>,false,1622838666000,"",false,"","",false,"","",false,false,false,false,1622838666000,"","","","","","",""
+66,SD-INS-PROC TECH-NH-300,SD PROC TECH - 90 Day Onboarding Training,<p>90 day learning plan for the position of Processing Technician. Start this plan after completing the 60 day plan.</p>,false,1565725215000,"",false,"","",false,"","",false,false,false,false,1565725215000,"","","","","","",""
+59,SD-INS-CPTS-NH-200,SD CPTS - 60 Day Onboarding Training,"<p>60 day learning plan for the positions of Client Support Analyst, Custom Support Analyst, and Operations Development Support.  Start this plan after completing the 30 day plan.</p>
+<p> </p>
+<p> </p>",false,1565130299000,"",false,"","",false,"","",false,false,false,false,1565130299000,"","","","","","",""
+40,LIL-027,MIndfulness - LinkedIn Learning,"<p>Scientific studies confirm that mindfulness leads to performance, health, and well-being. That's why leading companies like Google and Deutsche Bank implement mindfulness programs for their people.</p>",false,1561647363000,"",false,"","",true,"","",false,false,false,false,1561647363000,"","","","","","",""
+124,ADV-M365,Advisory - M365 Learning,<p>Basics of M365 for Advisory </p>,false,1651585824000,"",false,"","",true,"","",false,false,false,true,1651585886000,"","","","",14123,"",""
+69,LIL-033,LinkedIn Learning - Lighthouse Professional Soft Skills,<p>Lighthouse Professional Soft Skills</p>,false,1566396118000,"",false,"","",true,"","",false,false,false,true,1566396188000,"","","","","","",""
+112,NH-102,Search Team - 60 Day New Hire Plan,<p>Search Team 60 day new hire plan. </p>,false,1621452158000,"",false,"","",false,"","",false,false,false,false,1621452158000,"","","","","","",""
+118,BLCKOUT-000,Relativity Redact (Blackout) Learning Plan,<p>This learning plan will provide a good overview of the Relativity Redact (aka Blackout) program. </p>,false,1653060338000,"",false,"","",false,"","",false,false,false,false,1653060338000,"","","","",13106,"",""
+126,RCOB60,RCOB 60 Onboarding Plan,<p>For Review Consulting</p>,false,1653336827000,"",false,"","",false,"","",false,false,false,false,1653336827000,"","","","",14409,"",""
+39,LIL-026,Client Focus - LinkedIn Learning,<p>Making our clients our top priority.</p>,false,1561647281000,"",false,"","",true,"","",false,false,false,false,1561647281000,"","","","","","",""

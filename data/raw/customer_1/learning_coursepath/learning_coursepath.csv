@@ -1,0 +1,363 @@
+id_path,path_code,path_name,path_descr,subscribe_method,create_date,img,is_selling,purchase_type,price,visible_in_catalog,credits,days_valid,days_valid_type,catchup_enabled,catchup_limit,deep_link,last_update,catalog_show_alternative_learning_plans,catalog_show_alternative_subscription_plans,catalog_show_buy_now,ecommerce_pricing_system_default,author_id,short_description,cover_img
+29,EI-LPNON,Energy Isolation 1 & 2,"<p><span class=\"mark0292dfnpz\" style=\"color:#201f1e;font-size:14.6667px;font-family:Calibri, sans-serif;\"><strong>Energy Isolation Learning Plan</strong>  </span><span style=\"color:#201f1e;font-size:14.6667px;font-family:Calibri, sans-serif;\">– You must complete Energy Isolation 1 before moving on to the Energy Isolation 2 Module. </span><span style=\"color:#ff0000;\"><em>If you have already completed Energy Isolation 1 through ASA Online, that course will be credited toward this learning plan (no need to take again!) Please enroll in this Learning Plan, but purchase only the Energy Isolation 2 Module.</em></span></p>
+<p> </p>
+<p><strong>Energy Isolation 1</strong><strong> (NSTC-28) </strong></p>
+<p><strong>Revised 1-2022</strong></p>
+<p><strong>Course Time 30 min</strong></p>
+<p><strong>Course Objectives:</strong></p>
+<ul><li><ul><li>Identify hazardous energy sources in the workplace</li>
+<li>Understand the requirements of the Energy Isolation Standard</li>
+<li>Know how to eliminate, control, and protect against hazardous energy sources, and</li>
+<li>Understand safe work practices for working around EI devices.</li>
+</ul></li></ul><p> </p>
+<p><strong>Energy Isolation 2</strong><strong> (NSTC-16)</strong> <em> </em></p>
+<p><strong>Revised 1-2022</strong></p>
+<p><strong>Course Time 1 hour</strong></p>
+<p><strong>Course Objectives:</strong></p>
+<ul><li>Understand Energy Isolation procedures and documents</li>
+<li>Identify the types of locks, devices and tags used to isolate energy sources</li>
+<li>Explain and follow the proper steps for implementing an energy isolation strategy, and</li>
+<li>Apply and verify energy isolation controls.</li>
+</ul><p> </p>",false,1640736763000,532,true,2,75.0,true,"","",false,false,false,false,1640736763000,"","","","",13037,"",""
+13,NSTC-10CCAMEM,Common Chemical Awareness,"<p><span style=\"color:#222222;font-size:16px;font-family:Times, serif;\">To introduce employees to the potential hazards and safe work practices specific to Asbestos, Benzene, and Lead.</span></p>",false,1613076446000,417,true,1,75.0,true,"","",false,false,false,false,1614646162000,"","","","","","",""
+15,"",COPA- Unescorted Alpine Operations Camp (AOC) & Non-Operating Area (NOA),<p>Orientation to Alpine for Unescorted guests</p>,false,1646427829000,489,false,1,"",true,"","",true,false,false,false,1646427829000,"","","","","","",""
+25,RP-SAR-LPNON,Respiratory Protection: Intro and SAR,"<p style=\"color:#201f1e;font-size:11pt;font-family:Calibri, sans-serif;\"><strong><span class=\"marksuy34gv1e\">Respiratory</span> </strong><span class=\"mark0292dfnpz\"><strong>Protection SAR Learning Plan</strong>  </span>– You must complete RP Introduction before moving on to the RP SAR Module. <span style=\"color:#ff0000;\"><em>If you have already completed Respiratory Protection Introduction through ASA Online, that course will be credited toward this learning plan (no need to take again!) Please enroll in this Learning Plan, but purchase only the second module - Respiratory Protection SAR.</em></span></p>
+<p style=\"color:#201f1e;font-size:11pt;font-family:Calibri, sans-serif;\"> </p>
+<p style=\"color:#201f1e;font-size:11pt;font-family:Calibri, sans-serif;\"><strong><span class=\"marksuy34gv1e\" style=\"color:inherit;\">Respiratory</span> <span class=\"mark0292dfnpz\" style=\"color:inherit;\">Protection</span> <span style=\"background-color:#ffff00;\"><span class=\"markhj9oa63b2\" style=\"color:inherit;\">Introduction</span></span> (NSTC-12)</strong></p>
+<p style=\"color:#201f1e;font-size:11pt;font-family:Calibri, sans-serif;\">Revised 1-2022</p>
+<p style=\"color:#201f1e;font-size:11pt;font-family:Calibri, sans-serif;\">Course Time 30 minutes</p>
+<p style=\"color:#201f1e;font-size:11pt;font-family:Calibri, sans-serif;\">Course Objectives:</p>
+<ul style=\"color:#201f1e;\" type=\"disc\"><li>
+<ul type=\"circle\"><li style=\"font-size:11pt;font-family:Calibri, sans-serif;\"><span style=\"color:inherit;font-size:10pt;font-family:Arial, sans-serif;\">List hazardous conditions that require the use of <span class=\"marksuy34gv1e\" style=\"color:inherit;\">respiratory</span> <span class=\"mark0292dfnpz\" style=\"color:inherit;\">protection</span></span></li>
+<li style=\"font-size:11pt;font-family:Calibri, sans-serif;\"><span style=\"color:inherit;font-size:10pt;font-family:Arial, sans-serif;\">Apply appropriate control measures for <span class=\"marksuy34gv1e\" style=\"color:inherit;\">respiratory</span> hazards</span></li>
+<li style=\"font-size:11pt;font-family:Calibri, sans-serif;\"><span style=\"color:inherit;font-size:10pt;font-family:Arial, sans-serif;\">Explain the purpose and elements of a <span class=\"marksuy34gv1e\" style=\"color:inherit;\">respiratory</span> <span class=\"mark0292dfnpz\" style=\"color:inherit;\">protection</span> program</span></li>
+<li style=\"font-size:11pt;font-family:Calibri, sans-serif;\"><span style=\"color:inherit;font-size:10pt;font-family:Arial, sans-serif;\">Explain the responsibilities of the employer and employees</span></li>
+</ul></li>
+</ul><p style=\"color:#201f1e;font-size:11pt;font-family:Calibri, sans-serif;\"><strong><span class=\"marksuy34gv1e\" style=\"color:inherit;\">Respiratory</span> <span class=\"mark0292dfnpz\" style=\"color:inherit;\">Protection</span> <span style=\"background-color:#ffff00;\">SAR</span> (NSTC-15)</strong></p>
+<p class=\"x_MsoNormal\" style=\"font-size:11pt;font-family:Calibri, sans-serif;\">Revised 1-2022</p>
+<p class=\"x_MsoNormal\" style=\"font-size:11pt;font-family:Calibri, sans-serif;\">Course Time 30 minutes</p>
+<p class=\"x_MsoNormal\" style=\"font-size:11pt;font-family:Calibri, sans-serif;\">Course Objectives:</p>
+<ul type=\"disc\"><li><ul type=\"circle\"><li class=\"x_MsoListParagraph\" style=\"font-size:11pt;font-family:Calibri, sans-serif;\"><span style=\"color:inherit;font-size:10pt;font-family:Arial, sans-serif;\">Describe the components of the Supplied Air Respirator</span></li>
+<li class=\"x_MsoListParagraph\" style=\"font-size:11pt;font-family:Calibri, sans-serif;\"><span style=\"color:inherit;font-size:10pt;font-family:Arial, sans-serif;\">Determine and verify the air source supply</span></li>
+<li class=\"x_MsoListParagraph\" style=\"font-size:11pt;font-family:Calibri, sans-serif;\"><span style=\"color:inherit;font-size:10pt;font-family:Arial, sans-serif;\">Identify conditions requiring the SAR</span></li>
+<li class=\"x_MsoListParagraph\" style=\"font-size:11pt;font-family:Calibri, sans-serif;\"><span style=\"color:inherit;font-size:10pt;font-family:Arial, sans-serif;\">Identify advantages &amp; limitations of supplied air</span></li>
+<li class=\"x_MsoListParagraph\" style=\"font-size:11pt;font-family:Calibri, sans-serif;\"><span style=\"color:inherit;font-size:10pt;font-family:Arial, sans-serif;\">Demonstrate donning and doffing the Supplied Air Respirator</span></li>
+<li class=\"x_MsoListParagraph\" style=\"font-size:11pt;font-family:Calibri, sans-serif;\"><span style=\"color:inherit;font-size:10pt;font-family:Arial, sans-serif;\">Demonstrate proper pre-operation inspection, maintenance, cleaning, and storage of the SAR</span></li>
+</ul></li></ul><ul><li>
+<ul type=\"circle\"><li style=\"font-size:11pt;\">
+<p style=\"color:#201f1e;font-size:11pt;font-family:Calibri, sans-serif;\"> </p>
+<p style=\"color:#201f1e;font-size:11pt;font-family:Calibri, sans-serif;\"><strong><span class=\"marksuy34gv1e\" style=\"color:inherit;\">Respiratory</span> <span class=\"mark0292dfnpz\" style=\"color:inherit;\">Protection</span> <span style=\"background-color:#ffff00;\"><span class=\"markhj9oa63b2\" style=\"color:inherit;\">Introduction</span></span> (NSTC-12)</strong></p>
+<p style=\"color:#201f1e;font-size:11pt;font-family:Calibri, sans-serif;\">Revised 1-2022</p>
+<p style=\"color:#201f1e;font-size:11pt;font-family:Calibri, sans-serif;\">Course Time 30 minutes</p>
+<p style=\"color:#201f1e;font-size:11pt;font-family:Calibri, sans-serif;\">Course Objectives:</p>
+<ul style=\"color:#201f1e;\" type=\"disc\"><li>
+<ul type=\"circle\"><li style=\"font-size:11pt;font-family:Calibri, sans-serif;\"><span style=\"color:inherit;font-size:10pt;font-family:Arial, sans-serif;\">List hazardous conditions that require the use of <span class=\"marksuy34gv1e\" style=\"color:inherit;\">respiratory</span> <span class=\"mark0292dfnpz\" style=\"color:inherit;\">protection</span></span></li>
+<li style=\"font-size:11pt;font-family:Calibri, sans-serif;\"><span style=\"color:inherit;font-size:10pt;font-family:Arial, sans-serif;\">Apply appropriate control measures for <span class=\"marksuy34gv1e\" style=\"color:inherit;\">respiratory</span> hazards</span></li>
+<li style=\"font-size:11pt;font-family:Calibri, sans-serif;\"><span style=\"color:inherit;font-size:10pt;font-family:Arial, sans-serif;\">Explain the purpose and elements of a <span class=\"marksuy34gv1e\" style=\"color:inherit;\">respiratory</span> <span class=\"mark0292dfnpz\" style=\"color:inherit;\">protection</span> program</span></li>
+<li style=\"font-size:11pt;font-family:Calibri, sans-serif;\"><span style=\"color:inherit;font-size:10pt;font-family:Arial, sans-serif;\">Explain the responsibilities of the employer and employees</span></li>
+</ul></li>
+</ul><p style=\"color:#201f1e;font-size:11pt;font-family:Calibri, sans-serif;\"><strong><span class=\"marksuy34gv1e\" style=\"color:inherit;\">Respiratory</span> <span class=\"mark0292dfnpz\" style=\"color:inherit;\">Protection</span> <span style=\"background-color:#ffff00;\"><span class=\"markhj9oa63b2\" style=\"color:inherit;\">SCBA</span></span> (NSTC-14)</strong></p>
+<p style=\"color:#201f1e;font-size:11pt;font-family:Calibri, sans-serif;\">Revised 1-2022</p>
+<p style=\"color:#201f1e;font-size:11pt;font-family:Calibri, sans-serif;\">Course Time 30 minutes</p>
+<p style=\"color:#201f1e;font-size:11pt;font-family:Calibri, sans-serif;\">Course Objectives:</p>
+<p style=\"color:#201f1e;font-size:11pt;font-family:Calibri, sans-serif;\"> </p>
+<ul type=\"disc\"><li>
+<ul type=\"circle\"><li style=\"font-size:11pt;\"><span style=\"color:inherit;font-size:10pt;font-family:Arial, sans-serif;\">Describe conditions requiring a Self-Contained Breathing Apparatus (SCBA), its advantages and limitations</span></li>
+<li style=\"font-size:11pt;\"><span style=\"color:inherit;font-size:10pt;font-family:Arial, sans-serif;\">Describe SCBA types, operations, and components</span></li>
+<li style=\"font-size:11pt;\"><span style=\"color:inherit;font-size:10pt;font-family:Arial, sans-serif;\">Demonstrate the proper SCBA inspection, maintenance, cleaning and storage, and</span></li>
+<li style=\"font-size:11pt;\"><span style=\"color:inherit;font-size:10pt;font-family:Arial, sans-serif;\">Demonstrate the proper donning and doffing of the SCBA, and the method for changing an air cylinder</span></li>
+</ul></li>
+</ul></li>
+</ul></li>
+</ul>",false,1640732133000,509,true,2,60.0,true,"","",false,false,false,false,1640732133000,"","","","",13037,"",""
+10,NSTC-LP1NON,NSTC Unescorted Course,"<p><span style=\"font-size:12pt;\">Modules can be completed over time. Once you have completed all modules, your NSTC card will be sent to you. </span></p>
+<p><span style=\"font-size:12pt;\"> </span></p>
+<p><span style=\"font-size:12pt;\">Don't forget to add the H2S/FeS module if it's required for your work site or company. </span></p>
+<p><span style=\"font-size:12pt;\"> </span></p>
+<p><span style=\"font-size:12pt;\">This learning plan includes all six modules of the NSTC Unescorted Course (6-pack) </span></p>
+<ul><li><span style=\"font-size:12pt;\">Camps and Safety Orientation</span></li>
+<li><span style=\"font-size:12pt;\">Alaska Safety Handbook (ASH)</span></li>
+<li><span style=\"font-size:12pt;\">Personal Protective Equipment (PPE)</span></li>
+<li><span style=\"font-size:12pt;\">HAZCOM</span></li>
+<li><span style=\"font-size:12pt;\">HAZWOPER</span></li>
+<li><span style=\"font-size:12pt;\">Environmental Excellence</span></li>
+</ul>",false,1616783157000,376,true,1,205.0,true,"","",false,false,false,false,1644624455000,"","","","","","",""
+22,RP-APR-LPMEM,Respiratory Protection: Intro and APR,"<p style=\"color:#201f1e;font-size:11pt;font-family:Calibri, sans-serif;\"><strong><span class=\"marksuy34gv1e\">Respiratory</span> </strong><span class=\"mark0292dfnpz\"><strong>Protection APR Learning Plan</strong>  </span>– You must complete RP Introduction before moving on to the RP APR Module. <span style=\"color:#ff0000;\"><em>If you have already completed Respiratory Protection Introduction through ASA Online, that course will be credited toward this learning plan (no need to take again!) Please enroll in this Learning Plan, but purchase only the second module - Respiratory Protection APR.</em></span></p>
+<p style=\"color:#201f1e;font-size:11pt;font-family:Calibri, sans-serif;\"> </p>
+<p style=\"color:#201f1e;font-size:11pt;font-family:Calibri, sans-serif;\"><strong><span class=\"marksuy34gv1e\" style=\"color:inherit;\">Respiratory</span> <span class=\"mark0292dfnpz\" style=\"color:inherit;\">Protection</span> <span style=\"background-color:#ffff00;\"><span class=\"markhj9oa63b2\" style=\"color:inherit;\">Introduction</span></span> (NSTC-12)</strong></p>
+<p style=\"color:#201f1e;font-size:11pt;font-family:Calibri, sans-serif;\">Revised 1-2022</p>
+<p style=\"color:#201f1e;font-size:11pt;font-family:Calibri, sans-serif;\">Course Time 30 minutes</p>
+<p style=\"color:#201f1e;font-size:11pt;font-family:Calibri, sans-serif;\">Course Objectives:</p>
+<ul style=\"color:#201f1e;\" type=\"disc\"><li>
+<ul type=\"circle\"><li style=\"font-size:11pt;font-family:Calibri, sans-serif;\"><span style=\"color:inherit;font-size:10pt;font-family:Arial, sans-serif;\">List hazardous conditions that require the use of <span class=\"marksuy34gv1e\" style=\"color:inherit;\">respiratory</span> <span class=\"mark0292dfnpz\" style=\"color:inherit;\">protection</span></span></li>
+<li style=\"font-size:11pt;font-family:Calibri, sans-serif;\"><span style=\"color:inherit;font-size:10pt;font-family:Arial, sans-serif;\">Apply appropriate control measures for <span class=\"marksuy34gv1e\" style=\"color:inherit;\">respiratory</span> hazards</span></li>
+<li style=\"font-size:11pt;font-family:Calibri, sans-serif;\"><span style=\"color:inherit;font-size:10pt;font-family:Arial, sans-serif;\">Explain the purpose and elements of a <span class=\"marksuy34gv1e\" style=\"color:inherit;\">respiratory</span> <span class=\"mark0292dfnpz\" style=\"color:inherit;\">protection</span> program</span></li>
+<li style=\"font-size:11pt;font-family:Calibri, sans-serif;\"><span style=\"color:inherit;font-size:10pt;font-family:Arial, sans-serif;\">Explain the responsibilities of the employer and employees</span></li>
+</ul></li>
+</ul><p style=\"color:#201f1e;font-size:11pt;font-family:Calibri, sans-serif;\"> </p>
+<p style=\"color:#201f1e;font-size:11pt;font-family:Calibri, sans-serif;\"><strong><span class=\"marksuy34gv1e\" style=\"color:inherit;\">Respiratory</span> <span class=\"mark0292dfnpz\" style=\"color:inherit;\">Protection</span> <span style=\"background-color:#ffff00;\">APR</span> (NSTC-13)</strong></p>
+<p style=\"color:#201f1e;font-size:11pt;font-family:Calibri, sans-serif;\">Revised 1-2022</p>
+<p style=\"color:#201f1e;font-size:11pt;font-family:Calibri, sans-serif;\">Course Time 30 minutes</p>
+<p style=\"color:#201f1e;font-size:11pt;font-family:Calibri, sans-serif;\">Course Objectives:</p>
+<ul style=\"color:#201f1e;\" type=\"disc\"><li>
+<ul type=\"circle\"><li style=\"font-size:11pt;font-family:Calibri, sans-serif;\"><span style=\"color:inherit;font-size:10pt;font-family:Arial, sans-serif;\">Describe the conditions requiring APR use</span></li>
+<li style=\"font-size:11pt;font-family:Calibri, sans-serif;\"><span style=\"color:inherit;font-size:10pt;font-family:Arial, sans-serif;\">Describe factors affecting APR filter/cartridge selection</span></li>
+<li style=\"font-size:11pt;font-family:Calibri, sans-serif;\"><span style=\"color:inherit;font-size:10pt;font-family:Arial, sans-serif;\">Follow proper procedures for APR inspection, cleaning, maintenance, and storage</span></li>
+<li style=\"font-size:11pt;font-family:Calibri, sans-serif;\"><span style=\"color:inherit;font-size:10pt;font-family:Arial, sans-serif;\">Demonstrate the proper donning and doffing of an APR</span></li>
+</ul></li>
+</ul>",false,1640730032000,507,true,2,48.0,true,"","",false,false,false,false,1640730032000,"","","","",13037,"",""
+19,NSTC-LP2MEM,NSTC Unescorted Course + H2S,"<p style=\"color:#333333;\"><span style=\"font-size:12pt;\">Modules can be completed over time. Once you have completed all modules, your NSTC card will be sent to you. </span></p>
+<p style=\"color:#333333;\"> </p>
+<p style=\"color:#333333;\"><span style=\"font-size:12pt;\">This learning plan includes all six modules of the NSTC Unescorted Course (6-pack) plus Hydrogen Sulfide (H2S)/Iron Sulfide (FeS)</span></p>
+<ul style=\"color:#333333;\"><li><span style=\"font-size:12pt;\">Camps and Safety Orientation</span></li>
+<li><span style=\"font-size:12pt;\">Alaska Safety Handbook (ASH)</span></li>
+<li><span style=\"font-size:12pt;\">Personal Protective Equipment (PPE)</span></li>
+<li><span style=\"font-size:12pt;\">HAZCOM</span></li>
+<li><span style=\"font-size:12pt;\">HAZWOPER</span></li>
+<li><span style=\"font-size:12pt;\">Environmental Excellence</span></li>
+<li><span style=\"font-size:12pt;\">H2S/FeS</span></li>
+</ul>",false,1639011376000,426,true,1,165.0,true,"","",true,false,false,false,1644624506000,"","","","","","",""
+6,NSTC DD LP1,NSTC Distance Learning Plan,<p>Combining ILT course with the e-learning activities</p>,false,1586326887000,53,false,1,"",false,"","",false,false,false,true,1586459268000,"","","","","","",""
+18,NSTC-LP2NON,NSTC Unescorted Course + H2S,"<p><span style=\"font-size:12pt;\">Modules can be completed over time. Once you have completed all modules, your NSTC card will be sent to you. </span></p>
+<p> </p>
+<p><span style=\"font-size:12pt;\">This learning plan includes all six modules of the NSTC Unescorted Course (6-pack) plus Hydrogen Sulfide (H2S)/Iron Sulfide (FeS)</span></p>
+<ul><li><span style=\"font-size:12pt;\">Camps and Safety Orientation</span></li>
+<li><span style=\"font-size:12pt;\">Alaska Safety Handbook (ASH)</span></li>
+<li><span style=\"font-size:12pt;\">Personal Protective Equipment (PPE)</span></li>
+<li><span style=\"font-size:12pt;\">HAZCOM</span></li>
+<li><span style=\"font-size:12pt;\">HAZWOPER</span></li>
+<li><span style=\"font-size:12pt;\">Environmental Excellence</span></li>
+<li><span style=\"font-size:12pt;\">H2S/FeS</span></li>
+</ul>",false,1620930782000,426,true,1,235.0,true,"","",true,false,false,false,1644624497000,"","","","","","",""
+28,RP-ALL-LPMEM,Respiratory Protection: Modules 1 - 4,"<p class=\"x_MsoNormal\" style=\"font-size:11pt;font-family:Calibri, sans-serif;\"><strong><strong style=\"color:#201f1e;\"><span class=\"marksuy34gv1e\">Respiratory</span> </strong><span class=\"mark0292dfnpz\" style=\"color:#201f1e;\"><strong>Protection Learning Plan</strong>  </span><span style=\"color:#201f1e;\">– You must complete RP Introduction before moving on to other RP Modules. </span><span style=\"color:#ff0000;\"><em>If you have already completed Respiratory Protection Introduction through ASA Online, that course will be credited toward this learning plan (no need to take again!) Please enroll in this Learning Plan, but purchase only the modules you need.</em></span></strong></p>
+<p class=\"x_MsoNormal\" style=\"font-size:11pt;font-family:Calibri, sans-serif;\"><strong>Respiratory Protection <span style=\"color:inherit;\">Introduction</span></strong><span style=\"color:inherit;\"><strong> </strong></span><strong>(NSTC-12)</strong></p>
+<p class=\"x_MsoNormal\" style=\"font-size:11pt;font-family:Calibri, sans-serif;\"><strong>Revised 1-2022</strong></p>
+<p class=\"x_MsoNormal\" style=\"font-size:11pt;font-family:Calibri, sans-serif;\"><strong>Course Time 30 minutes</strong></p>
+<p class=\"x_MsoNormal\" style=\"font-size:11pt;font-family:Calibri, sans-serif;\"><strong>Course Objectives:</strong></p>
+<ul type=\"disc\"><li>
+<ul type=\"circle\"><li class=\"x_MsoListParagraph\" style=\"font-size:11pt;font-family:Calibri, sans-serif;\"><span style=\"color:inherit;font-size:10pt;font-family:Arial, sans-serif;\">List hazardous conditions that require the use of respiratory protection</span></li>
+<li class=\"x_MsoListParagraph\" style=\"font-size:11pt;font-family:Calibri, sans-serif;\"><span style=\"color:inherit;font-size:10pt;font-family:Arial, sans-serif;\">Apply appropriate control measures for respiratory hazards</span></li>
+<li class=\"x_MsoListParagraph\" style=\"font-size:11pt;font-family:Calibri, sans-serif;\"><span style=\"color:inherit;font-size:10pt;font-family:Arial, sans-serif;\">Explain the purpose and elements of a respiratory protection program</span></li>
+<li class=\"x_MsoListParagraph\" style=\"font-size:11pt;font-family:Calibri, sans-serif;\"><span style=\"color:inherit;font-size:10pt;font-family:Arial, sans-serif;\">Explain the responsibilities of the employer and employees</span></li>
+</ul></li>
+</ul><p class=\"x_MsoNormal\" style=\"font-size:11pt;font-family:Calibri, sans-serif;\"> </p>
+<p class=\"x_MsoNormal\" style=\"font-size:11pt;font-family:Calibri, sans-serif;\"><strong>Respiratory Protection <span style=\"color:inherit;\">APR</span></strong><span style=\"color:inherit;\"><strong> </strong></span><strong>(NSTC-13)</strong></p>
+<p class=\"x_MsoNormal\" style=\"font-size:11pt;font-family:Calibri, sans-serif;\"><strong>Revised 1-2022</strong></p>
+<p class=\"x_MsoNormal\" style=\"font-size:11pt;font-family:Calibri, sans-serif;\"><strong>Course Time 30 minutes</strong></p>
+<p class=\"x_MsoNormal\" style=\"font-size:11pt;font-family:Calibri, sans-serif;\"><strong>Course Objectives:</strong></p>
+<ul type=\"disc\"><li>
+<ul type=\"circle\"><li class=\"x_MsoListParagraph\" style=\"font-size:11pt;font-family:Calibri, sans-serif;\"><span style=\"color:inherit;font-size:10pt;font-family:Arial, sans-serif;\">Describe the conditions requiring APR use</span></li>
+<li class=\"x_MsoListParagraph\" style=\"font-size:11pt;font-family:Calibri, sans-serif;\"><span style=\"color:inherit;font-size:10pt;font-family:Arial, sans-serif;\">Describe factors affecting APR filter/cartridge selection</span></li>
+<li class=\"x_MsoListParagraph\" style=\"font-size:11pt;font-family:Calibri, sans-serif;\"><span style=\"color:inherit;font-size:10pt;font-family:Arial, sans-serif;\">Follow proper procedures for APR inspection, cleaning, maintenance, and storage</span></li>
+<li class=\"x_MsoListParagraph\" style=\"font-size:11pt;font-family:Calibri, sans-serif;\"><span style=\"color:inherit;font-size:10pt;font-family:Arial, sans-serif;\">Demonstrate the proper donning and doffing of an APR</span></li>
+</ul></li>
+</ul><p class=\"x_MsoNormal\" style=\"font-size:11pt;font-family:Calibri, sans-serif;\"> </p>
+<p class=\"x_MsoNormal\" style=\"font-size:11pt;font-family:Calibri, sans-serif;\"><strong>Respiratory Protection <span style=\"color:inherit;\">SCBA</span></strong><span style=\"color:inherit;\"><strong> </strong></span><strong>(NSTC-14)</strong></p>
+<p class=\"x_MsoNormal\" style=\"font-size:11pt;font-family:Calibri, sans-serif;\"><strong>Revised 1-2022</strong></p>
+<p class=\"x_MsoNormal\" style=\"font-size:11pt;font-family:Calibri, sans-serif;\"><strong>Course Time 30 minutes</strong></p>
+<p class=\"x_MsoNormal\" style=\"font-size:11pt;font-family:Calibri, sans-serif;\"><strong>Course Objectives:</strong></p>
+<ul type=\"disc\"><li>
+<ul type=\"circle\"><li class=\"x_MsoListParagraph\" style=\"font-size:11pt;font-family:Calibri, sans-serif;\"><span style=\"color:inherit;font-size:10pt;font-family:Arial, sans-serif;\">Describe conditions requiring a Self-Contained Breathing Apparatus (SCBA), its advantages and limitations</span></li>
+<li class=\"x_MsoListParagraph\" style=\"font-size:11pt;font-family:Calibri, sans-serif;\"><span style=\"color:inherit;font-size:10pt;font-family:Arial, sans-serif;\">Describe SCBA types, operations, and components</span></li>
+<li class=\"x_MsoListParagraph\" style=\"font-size:11pt;font-family:Calibri, sans-serif;\"><span style=\"color:inherit;font-size:10pt;font-family:Arial, sans-serif;\">Demonstrate the proper SCBA inspection, maintenance, cleaning and storage, and</span></li>
+<li class=\"x_MsoListParagraph\" style=\"font-size:11pt;font-family:Calibri, sans-serif;\"><span style=\"color:inherit;font-size:10pt;font-family:Arial, sans-serif;\">Demonstrate the proper donning and doffing of the SCBA, and the method for changing an air cylinder</span></li>
+</ul></li>
+</ul><p class=\"x_MsoNormal\" style=\"font-size:11pt;font-family:Calibri, sans-serif;\"> </p>
+<p class=\"x_MsoNormal\" style=\"font-size:11pt;font-family:Calibri, sans-serif;\"><strong>Respiratory Protection <span style=\"color:inherit;\">SAR</span></strong><span style=\"color:inherit;\"><strong> </strong></span><strong>(NSTC-15)</strong></p>
+<p class=\"x_MsoNormal\" style=\"font-size:11pt;font-family:Calibri, sans-serif;\"><strong>Revised 1-2022</strong></p>
+<p class=\"x_MsoNormal\" style=\"font-size:11pt;font-family:Calibri, sans-serif;\"><strong>Course Time 30 minutes</strong></p>
+<p class=\"x_MsoNormal\" style=\"font-size:11pt;font-family:Calibri, sans-serif;\"><strong>Course Objectives:</strong></p>
+<ul type=\"disc\"><li>
+<ul type=\"circle\"><li class=\"x_MsoListParagraph\" style=\"font-size:11pt;font-family:Calibri, sans-serif;\"><span style=\"color:inherit;font-size:10pt;font-family:Arial, sans-serif;\">Describe the components of the Supplied Air Respirator</span></li>
+<li class=\"x_MsoListParagraph\" style=\"font-size:11pt;font-family:Calibri, sans-serif;\"><span style=\"color:inherit;font-size:10pt;font-family:Arial, sans-serif;\">Determine and verify the air source supply</span></li>
+<li class=\"x_MsoListParagraph\" style=\"font-size:11pt;font-family:Calibri, sans-serif;\"><span style=\"color:inherit;font-size:10pt;font-family:Arial, sans-serif;\">Identify conditions requiring the SAR</span></li>
+<li class=\"x_MsoListParagraph\" style=\"font-size:11pt;font-family:Calibri, sans-serif;\"><span style=\"color:inherit;font-size:10pt;font-family:Arial, sans-serif;\">Identify advantages &amp; limitations of supplied air</span></li>
+<li class=\"x_MsoListParagraph\" style=\"font-size:11pt;font-family:Calibri, sans-serif;\"><span style=\"color:inherit;font-size:10pt;font-family:Arial, sans-serif;\">Demonstrate donning and doffing the Supplied Air Respirator</span></li>
+<li class=\"x_MsoListParagraph\" style=\"font-size:11pt;font-family:Calibri, sans-serif;\"><span style=\"color:inherit;font-size:10pt;font-family:Arial, sans-serif;\">Demonstrate proper pre-operation inspection, maintenance, cleaning, and storage of the SAR</span></li>
+</ul></li>
+</ul>",false,1640734694000,531,true,2,95.0,true,"","",false,false,false,false,1641333396000,"","","","",13037,"",""
+8,EMI NSTC 01DD,EMI: NSTC Unescorted (Distance Delivered),<p>NSTC Unescorted Course. Webinar delivery requires an internet connection with video and audio capabilites.</p>,false,1586236228000,301,false,1,"",false,"","",false,false,false,true,1586236228000,"","","","","","",""
+7,BEACON NSTC 01DD,BEACON: NSTC Unescorted (Distance Delivered),<p>NSTC Unescorted Course. Webinar delivery requires an internet connection with video and audio capabilities. </p>,false,1586236228000,297,false,1,"",false,"","",false,false,false,true,1586236228000,"","","","","","",""
+11,NSTC-LP1MEM,NSTC Unescorted Course,"<p><span style=\"font-size:12pt;\">Modules can be completed over time. Once you have completed all modules, your NSTC card will be sent to you. </span></p>
+<p><span style=\"font-size:12pt;\"> </span></p>
+<p><span style=\"font-size:12pt;\">Don't forget to add the H2S/FeS module if it's required for your work site or company. </span></p>
+<p><span style=\"font-size:12pt;\"> </span></p>
+<p><span style=\"font-size:12pt;\">This learning plan includes all six modules of the NSTC Unescorted Course (6-pack) </span></p>
+<ul><li><span style=\"font-size:12pt;\">Camps and Safety Orientation</span></li>
+<li><span style=\"font-size:12pt;\">Alaska Safety Handbook (ASH)</span></li>
+<li><span style=\"font-size:12pt;\">Personal Protective Equipment (PPE)</span></li>
+<li><span style=\"font-size:12pt;\">HAZCOM</span></li>
+<li><span style=\"font-size:12pt;\">HAZWOPER</span></li>
+<li><span style=\"font-size:12pt;\">Environmental Excellence</span></li>
+</ul>",false,1639011376000,376,true,1,145.0,true,"","",false,false,false,false,1644624469000,"","","","","","",""
+14,"",COPA- Escorted Alpine Operations Camp (AOC) & Non-Operating Area (NOA),<p>Orientation to Alpine for Escorted workers</p>,false,1645206706000,488,false,1,0.0,true,"","",true,false,false,false,1645206706000,"","","","","","",""
+26,RP-SAR-LPMEM,Respiratory Protection: Intro and SAR,"<p style=\"color:#201f1e;font-size:11pt;font-family:Calibri, sans-serif;\"><strong><span class=\"marksuy34gv1e\">Respiratory</span> </strong><span class=\"mark0292dfnpz\"><strong>Protection SAR Learning Plan</strong>  </span>– You must complete RP Introduction before moving on to the RP SAR Module. <span style=\"color:#ff0000;\"><em>If you have already completed Respiratory Protection Introduction through ASA Online, that course will be credited toward this learning plan (no need to take again!) Please enroll in this Learning Plan, but purchase only the second module - Respiratory Protection SAR.</em></span></p>
+<p style=\"color:#201f1e;font-size:11pt;font-family:Calibri, sans-serif;\"> </p>
+<p style=\"color:#201f1e;font-size:11pt;font-family:Calibri, sans-serif;\"><strong><span class=\"marksuy34gv1e\" style=\"color:inherit;\">Respiratory</span> <span class=\"mark0292dfnpz\" style=\"color:inherit;\">Protection</span> <span style=\"background-color:#ffff00;\"><span class=\"markhj9oa63b2\" style=\"color:inherit;\">Introduction</span></span> (NSTC-12)</strong></p>
+<p style=\"color:#201f1e;font-size:11pt;font-family:Calibri, sans-serif;\">Revised 1-2022</p>
+<p style=\"color:#201f1e;font-size:11pt;font-family:Calibri, sans-serif;\">Course Time 30 minutes</p>
+<p style=\"color:#201f1e;font-size:11pt;font-family:Calibri, sans-serif;\">Course Objectives:</p>
+<ul style=\"color:#201f1e;\" type=\"disc\"><li>
+<ul type=\"circle\"><li style=\"font-size:11pt;font-family:Calibri, sans-serif;\"><span style=\"color:inherit;font-size:10pt;font-family:Arial, sans-serif;\">List hazardous conditions that require the use of <span class=\"marksuy34gv1e\" style=\"color:inherit;\">respiratory</span> <span class=\"mark0292dfnpz\" style=\"color:inherit;\">protection</span></span></li>
+<li style=\"font-size:11pt;font-family:Calibri, sans-serif;\"><span style=\"color:inherit;font-size:10pt;font-family:Arial, sans-serif;\">Apply appropriate control measures for <span class=\"marksuy34gv1e\" style=\"color:inherit;\">respiratory</span> hazards</span></li>
+<li style=\"font-size:11pt;font-family:Calibri, sans-serif;\"><span style=\"color:inherit;font-size:10pt;font-family:Arial, sans-serif;\">Explain the purpose and elements of a <span class=\"marksuy34gv1e\" style=\"color:inherit;\">respiratory</span> <span class=\"mark0292dfnpz\" style=\"color:inherit;\">protection</span> program</span></li>
+<li style=\"font-size:11pt;font-family:Calibri, sans-serif;\"><span style=\"color:inherit;font-size:10pt;font-family:Arial, sans-serif;\">Explain the responsibilities of the employer and employees</span></li>
+</ul></li>
+</ul><p style=\"color:#201f1e;font-size:11pt;font-family:Calibri, sans-serif;\"><strong><span class=\"marksuy34gv1e\" style=\"color:inherit;\">Respiratory</span> <span class=\"mark0292dfnpz\" style=\"color:inherit;\">Protection</span> <span style=\"background-color:#ffff00;\">SAR</span> (NSTC-15)</strong></p>
+<p class=\"x_MsoNormal\" style=\"color:#333333;font-size:11pt;font-family:Calibri, sans-serif;\">Revised 1-2022</p>
+<p class=\"x_MsoNormal\" style=\"color:#333333;font-size:11pt;font-family:Calibri, sans-serif;\">Course Time 30 minutes</p>
+<p class=\"x_MsoNormal\" style=\"color:#333333;font-size:11pt;font-family:Calibri, sans-serif;\">Course Objectives:</p>
+<ul style=\"color:#333333;\" type=\"disc\"><li>
+<ul type=\"circle\"><li class=\"x_MsoListParagraph\" style=\"font-size:11pt;font-family:Calibri, sans-serif;\"><span style=\"color:inherit;font-size:10pt;font-family:Arial, sans-serif;\">Describe the components of the Supplied Air Respirator</span></li>
+<li class=\"x_MsoListParagraph\" style=\"font-size:11pt;font-family:Calibri, sans-serif;\"><span style=\"color:inherit;font-size:10pt;font-family:Arial, sans-serif;\">Determine and verify the air source supply</span></li>
+<li class=\"x_MsoListParagraph\" style=\"font-size:11pt;font-family:Calibri, sans-serif;\"><span style=\"color:inherit;font-size:10pt;font-family:Arial, sans-serif;\">Identify conditions requiring the SAR</span></li>
+<li class=\"x_MsoListParagraph\" style=\"font-size:11pt;font-family:Calibri, sans-serif;\"><span style=\"color:inherit;font-size:10pt;font-family:Arial, sans-serif;\">Identify advantages &amp; limitations of supplied air</span></li>
+<li class=\"x_MsoListParagraph\" style=\"font-size:11pt;font-family:Calibri, sans-serif;\"><span style=\"color:inherit;font-size:10pt;font-family:Arial, sans-serif;\">Demonstrate donning and doffing the Supplied Air Respirator</span></li>
+<li class=\"x_MsoListParagraph\" style=\"font-size:11pt;font-family:Calibri, sans-serif;\"><span style=\"color:inherit;font-size:10pt;font-family:Arial, sans-serif;\">Demonstrate proper pre-operation inspection, maintenance, cleaning, and storage of the SAR</span></li>
+</ul></li>
+</ul>",false,1640732280000,509,true,2,48.0,true,"","",false,false,false,false,1640732280000,"","","","",13037,"",""
+27,RP-ALL-LPNON,Respiratory Protection: Modules 1-4,"<p class=\"x_MsoNormal\" style=\"font-size:11pt;font-family:Calibri, sans-serif;\"><strong><strong style=\"color:#201f1e;\"><span class=\"marksuy34gv1e\">Respiratory</span> </strong><span class=\"mark0292dfnpz\" style=\"color:#201f1e;\"><strong>Protection Learning Plan</strong>  </span><span style=\"color:#201f1e;\">– You must complete <span style=\"text-decoration:underline;\">RP Introduction</span> before moving on to other RP Modules. </span><span style=\"color:#ff0000;\"><em>If you have already completed Respiratory Protection Introduction through ASA Online, that course will be credited toward this learning plan (no need to take again!) Please enroll in this Learning Plan, but purchase only the modules you need.</em></span></strong></p>
+<p class=\"x_MsoNormal\" style=\"font-size:11pt;font-family:Calibri, sans-serif;\"><strong>Respiratory Protection <span style=\"color:inherit;\">Introduction</span></strong><span style=\"color:inherit;\"><strong> </strong></span><strong>(NSTC-12)</strong></p>
+<p class=\"x_MsoNormal\" style=\"font-size:11pt;font-family:Calibri, sans-serif;\"><strong>Revised 1-2022</strong></p>
+<p class=\"x_MsoNormal\" style=\"font-size:11pt;font-family:Calibri, sans-serif;\"><strong>Course Time 30 minutes</strong></p>
+<p class=\"x_MsoNormal\" style=\"font-size:11pt;font-family:Calibri, sans-serif;\"><strong>Course Objectives:</strong></p>
+<ul type=\"disc\"><li>
+<ul type=\"circle\"><li class=\"x_MsoListParagraph\" style=\"font-size:11pt;font-family:Calibri, sans-serif;\"><span style=\"color:inherit;font-size:10pt;font-family:Arial, sans-serif;\">List hazardous conditions that require the use of respiratory protection</span></li>
+<li class=\"x_MsoListParagraph\" style=\"font-size:11pt;font-family:Calibri, sans-serif;\"><span style=\"color:inherit;font-size:10pt;font-family:Arial, sans-serif;\">Apply appropriate control measures for respiratory hazards</span></li>
+<li class=\"x_MsoListParagraph\" style=\"font-size:11pt;font-family:Calibri, sans-serif;\"><span style=\"color:inherit;font-size:10pt;font-family:Arial, sans-serif;\">Explain the purpose and elements of a respiratory protection program</span></li>
+<li class=\"x_MsoListParagraph\" style=\"font-size:11pt;font-family:Calibri, sans-serif;\"><span style=\"color:inherit;font-size:10pt;font-family:Arial, sans-serif;\">Explain the responsibilities of the employer and employees</span></li>
+</ul></li>
+</ul><p class=\"x_MsoNormal\" style=\"font-size:11pt;font-family:Calibri, sans-serif;\"> </p>
+<p class=\"x_MsoNormal\" style=\"font-size:11pt;font-family:Calibri, sans-serif;\"><strong>Respiratory Protection <span style=\"color:inherit;\">APR</span></strong><span style=\"color:inherit;\"><strong> </strong></span><strong>(NSTC-13)</strong></p>
+<p class=\"x_MsoNormal\" style=\"font-size:11pt;font-family:Calibri, sans-serif;\"><strong>Revised 1-2022</strong></p>
+<p class=\"x_MsoNormal\" style=\"font-size:11pt;font-family:Calibri, sans-serif;\"><strong>Course Time 30 minutes</strong></p>
+<p class=\"x_MsoNormal\" style=\"font-size:11pt;font-family:Calibri, sans-serif;\"><strong>Course Objectives:</strong></p>
+<ul type=\"disc\"><li>
+<ul type=\"circle\"><li class=\"x_MsoListParagraph\" style=\"font-size:11pt;font-family:Calibri, sans-serif;\"><span style=\"color:inherit;font-size:10pt;font-family:Arial, sans-serif;\">Describe the conditions requiring APR use</span></li>
+<li class=\"x_MsoListParagraph\" style=\"font-size:11pt;font-family:Calibri, sans-serif;\"><span style=\"color:inherit;font-size:10pt;font-family:Arial, sans-serif;\">Describe factors affecting APR filter/cartridge selection</span></li>
+<li class=\"x_MsoListParagraph\" style=\"font-size:11pt;font-family:Calibri, sans-serif;\"><span style=\"color:inherit;font-size:10pt;font-family:Arial, sans-serif;\">Follow proper procedures for APR inspection, cleaning, maintenance, and storage</span></li>
+<li class=\"x_MsoListParagraph\" style=\"font-size:11pt;font-family:Calibri, sans-serif;\"><span style=\"color:inherit;font-size:10pt;font-family:Arial, sans-serif;\">Demonstrate the proper donning and doffing of an APR</span></li>
+</ul></li>
+</ul><p class=\"x_MsoNormal\" style=\"font-size:11pt;font-family:Calibri, sans-serif;\"> </p>
+<p class=\"x_MsoNormal\" style=\"font-size:11pt;font-family:Calibri, sans-serif;\"><strong>Respiratory Protection <span style=\"color:inherit;\">SCBA</span></strong><span style=\"color:inherit;\"><strong> </strong></span><strong>(NSTC-14)</strong></p>
+<p class=\"x_MsoNormal\" style=\"font-size:11pt;font-family:Calibri, sans-serif;\"><strong>Revised 1-2022</strong></p>
+<p class=\"x_MsoNormal\" style=\"font-size:11pt;font-family:Calibri, sans-serif;\"><strong>Course Time 30 minutes</strong></p>
+<p class=\"x_MsoNormal\" style=\"font-size:11pt;font-family:Calibri, sans-serif;\"><strong>Course Objectives:</strong></p>
+<ul type=\"disc\"><li>
+<ul type=\"circle\"><li class=\"x_MsoListParagraph\" style=\"font-size:11pt;font-family:Calibri, sans-serif;\"><span style=\"color:inherit;font-size:10pt;font-family:Arial, sans-serif;\">Describe conditions requiring a Self-Contained Breathing Apparatus (SCBA), its advantages and limitations</span></li>
+<li class=\"x_MsoListParagraph\" style=\"font-size:11pt;font-family:Calibri, sans-serif;\"><span style=\"color:inherit;font-size:10pt;font-family:Arial, sans-serif;\">Describe SCBA types, operations, and components</span></li>
+<li class=\"x_MsoListParagraph\" style=\"font-size:11pt;font-family:Calibri, sans-serif;\"><span style=\"color:inherit;font-size:10pt;font-family:Arial, sans-serif;\">Demonstrate the proper SCBA inspection, maintenance, cleaning and storage, and</span></li>
+<li class=\"x_MsoListParagraph\" style=\"font-size:11pt;font-family:Calibri, sans-serif;\"><span style=\"color:inherit;font-size:10pt;font-family:Arial, sans-serif;\">Demonstrate the proper donning and doffing of the SCBA, and the method for changing an air cylinder</span></li>
+</ul></li>
+</ul><p class=\"x_MsoNormal\" style=\"font-size:11pt;font-family:Calibri, sans-serif;\"> </p>
+<p class=\"x_MsoNormal\" style=\"font-size:11pt;font-family:Calibri, sans-serif;\"><strong>Respiratory Protection <span style=\"color:inherit;\">SAR</span></strong><span style=\"color:inherit;\"><strong> </strong></span><strong>(NSTC-15)</strong></p>
+<p class=\"x_MsoNormal\" style=\"font-size:11pt;font-family:Calibri, sans-serif;\"><strong>Revised 1-2022</strong></p>
+<p class=\"x_MsoNormal\" style=\"font-size:11pt;font-family:Calibri, sans-serif;\"><strong>Course Time 30 minutes</strong></p>
+<p class=\"x_MsoNormal\" style=\"font-size:11pt;font-family:Calibri, sans-serif;\"><strong>Course Objectives:</strong></p>
+<ul type=\"disc\"><li>
+<ul type=\"circle\"><li class=\"x_MsoListParagraph\" style=\"font-size:11pt;font-family:Calibri, sans-serif;\"><span style=\"color:inherit;font-size:10pt;font-family:Arial, sans-serif;\">Describe the components of the Supplied Air Respirator</span></li>
+<li class=\"x_MsoListParagraph\" style=\"font-size:11pt;font-family:Calibri, sans-serif;\"><span style=\"color:inherit;font-size:10pt;font-family:Arial, sans-serif;\">Determine and verify the air source supply</span></li>
+<li class=\"x_MsoListParagraph\" style=\"font-size:11pt;font-family:Calibri, sans-serif;\"><span style=\"color:inherit;font-size:10pt;font-family:Arial, sans-serif;\">Identify conditions requiring the SAR</span></li>
+<li class=\"x_MsoListParagraph\" style=\"font-size:11pt;font-family:Calibri, sans-serif;\"><span style=\"color:inherit;font-size:10pt;font-family:Arial, sans-serif;\">Identify advantages &amp; limitations of supplied air</span></li>
+<li class=\"x_MsoListParagraph\" style=\"font-size:11pt;font-family:Calibri, sans-serif;\"><span style=\"color:inherit;font-size:10pt;font-family:Arial, sans-serif;\">Demonstrate donning and doffing the Supplied Air Respirator</span></li>
+<li class=\"x_MsoListParagraph\" style=\"font-size:11pt;font-family:Calibri, sans-serif;\"><span style=\"color:inherit;font-size:10pt;font-family:Arial, sans-serif;\">Demonstrate proper pre-operation inspection, maintenance, cleaning, and storage of the SAR</span></li>
+</ul></li>
+</ul>",false,1640734745000,531,true,2,120.0,true,"","",false,false,false,false,1641333370000,"","","","",13037,"",""
+17,"",COPA- Unescorted Plant and Drillsites,<p>Alpine Unescorted course for Plants and Drillsites</p>,false,1646427873000,491,false,1,"",true,"","",true,false,false,false,1646427873000,"","","","","","",""
+16,"",COPA- Escorted Plant and Drillsites,<p>Alpine Escorted course for Drillsites and Plants</p>,false,1646427852000,490,false,1,"",true,"","",true,false,false,false,1646427852000,"","","","","","",""
+30,EI-LPMEM,Energy Isolation 1 & 2,"<p><strong style=\"color:#201f1e;font-size:14.6667px;font-family:Calibri, sans-serif;\"><span class=\"marksuy34gv1e\">Energy Isolation</span></strong><span class=\"mark0292dfnpz\" style=\"color:#201f1e;font-size:14.6667px;font-family:Calibri, sans-serif;\"><strong> Learning Plan</strong>  </span><span style=\"color:#201f1e;font-size:14.6667px;font-family:Calibri, sans-serif;\">– You must complete Energy Isolation 1 before moving on to the Energy Isolation 1 Module. </span><span style=\"color:#ff0000;\"><em>If you have already completed Energy Isolation 1 through ASA Online, that course will be credited toward this learning plan (no need to take again!) Please enroll in this Learning Plan, but purchase only the Energy Isolation 2 Module.</em></span></p>
+<p><strong>Energy Isolation 1</strong><strong> (NSTC-28) </strong></p>
+<p><strong>Revised 1-2022</strong></p>
+<p><strong>Course Time 30 min</strong></p>
+<p><strong>Course Objectives:</strong></p>
+<ul><li>
+<ul><li>Identify hazardous energy sources in the workplace</li>
+<li>Understand the requirements of the Energy Isolation Standard</li>
+<li>Know how to eliminate, control, and protect against hazardous energy sources, and</li>
+<li>Understand safe work practices for working around EI devices.</li>
+</ul></li>
+</ul><p> </p>
+<p><strong>Energy Isolation 2</strong><strong> (NSTC-16)</strong> <em> </em></p>
+<p><strong>Revised 1-2022</strong></p>
+<p><strong>Course Time 1 hour</strong></p>
+<p><strong>Course Objectives:</strong></p>
+<ul><li>
+<ul><li>Understand Energy Isolation procedures and documents</li>
+<li>Identify the types of locks, devices and tags used to isolate energy sources</li>
+<li>Explain and follow the proper steps for implementing an energy isolation strategy, and</li>
+<li>Apply and verify energy isolation controls.</li>
+</ul></li>
+</ul>",false,1640737416000,532,true,2,60.0,true,"","",false,false,false,false,1640737416000,"","","","",13037,"",""
+21,RP-APR-LPNON,Respiratory Protection: Intro and APR,"<p style=\"color:#201f1e;font-size:11pt;font-family:Calibri, sans-serif;\"><span style=\"color:#201f1e;\"><strong><span class=\"marksuy34gv1e\">Respiratory</span> <span class=\"mark0292dfnpz\">Protection APR Learning Plan  </span></strong>– You must complete RP Introduction before moving on to the RP APR Module. </span><span style=\"color:#ff0000;\"><em>If you have already completed Respiratory Protection Introduction through ASA Online, that course will be credited toward this learning plan (no need to take again!) Please enroll in this Learning Plan, but purchase only the second module - Respiratory Protection APR.</em></span></p>
+<p style=\"color:#201f1e;font-size:11pt;font-family:Calibri, sans-serif;\"> </p>
+<p style=\"color:#201f1e;font-size:11pt;font-family:Calibri, sans-serif;\"><strong><span class=\"marksuy34gv1e\" style=\"color:inherit;\">Respiratory</span> <span class=\"mark0292dfnpz\" style=\"color:inherit;\">Protection</span> <span style=\"color:#000000;background-color:#ffff00;\"><span class=\"markhj9oa63b2\" style=\"color:inherit;\">Introduction</span></span> (NSTC-12)</strong></p>
+<p style=\"color:#201f1e;font-size:11pt;font-family:Calibri, sans-serif;\"><strong>Revised 1-2022</strong></p>
+<p style=\"color:#201f1e;font-size:11pt;font-family:Calibri, sans-serif;\"><strong>Course Time 30 minutes</strong></p>
+<p style=\"color:#201f1e;font-size:11pt;font-family:Calibri, sans-serif;\"><strong>Course Objectives:</strong></p>
+<ul style=\"color:#201f1e;\" type=\"disc\"><li>
+<ul type=\"circle\"><li style=\"font-size:11pt;font-family:Calibri, sans-serif;\"><span style=\"color:inherit;font-size:10pt;font-family:Arial, sans-serif;\">List hazardous conditions that require the use of <span class=\"marksuy34gv1e\" style=\"color:inherit;\">respiratory</span> <span class=\"mark0292dfnpz\" style=\"color:inherit;\">protection</span></span></li>
+<li style=\"font-size:11pt;font-family:Calibri, sans-serif;\"><span style=\"color:inherit;font-size:10pt;font-family:Arial, sans-serif;\">Apply appropriate control measures for <span class=\"marksuy34gv1e\" style=\"color:inherit;\">respiratory</span> hazards</span></li>
+<li style=\"font-size:11pt;font-family:Calibri, sans-serif;\"><span style=\"color:inherit;font-size:10pt;font-family:Arial, sans-serif;\">Explain the purpose and elements of a <span class=\"marksuy34gv1e\" style=\"color:inherit;\">respiratory</span> <span class=\"mark0292dfnpz\" style=\"color:inherit;\">protection</span> program</span></li>
+<li style=\"font-size:11pt;font-family:Calibri, sans-serif;\"><span style=\"color:inherit;font-size:10pt;font-family:Arial, sans-serif;\">Explain the responsibilities of the employer and employees</span></li>
+</ul></li>
+</ul><p style=\"color:#201f1e;font-size:11pt;font-family:Calibri, sans-serif;\"> </p>
+<p style=\"color:#201f1e;font-size:11pt;font-family:Calibri, sans-serif;\"><strong><span class=\"marksuy34gv1e\" style=\"color:inherit;\">Respiratory</span> <span class=\"mark0292dfnpz\" style=\"color:inherit;\">Protection</span> <span style=\"color:#000000;background-color:#ffff00;\">APR</span> (NSTC-13)</strong></p>
+<p style=\"color:#201f1e;font-size:11pt;font-family:Calibri, sans-serif;\"><strong>Revised 1-2022</strong></p>
+<p style=\"color:#201f1e;font-size:11pt;font-family:Calibri, sans-serif;\"><strong>Course Time 30 minutes</strong></p>
+<p style=\"color:#201f1e;font-size:11pt;font-family:Calibri, sans-serif;\"><strong>Course Objectives:</strong></p>
+<ul style=\"color:#201f1e;\" type=\"disc\"><li>
+<ul type=\"circle\"><li style=\"font-size:11pt;font-family:Calibri, sans-serif;\"><span style=\"color:inherit;font-size:10pt;font-family:Arial, sans-serif;\">Describe the conditions requiring APR use</span></li>
+<li style=\"font-size:11pt;font-family:Calibri, sans-serif;\"><span style=\"color:inherit;font-size:10pt;font-family:Arial, sans-serif;\">Describe factors affecting APR filter/cartridge selection</span></li>
+<li style=\"font-size:11pt;font-family:Calibri, sans-serif;\"><span style=\"color:inherit;font-size:10pt;font-family:Arial, sans-serif;\">Follow proper procedures for APR inspection, cleaning, maintenance, and storage</span></li>
+<li style=\"font-size:11pt;font-family:Calibri, sans-serif;\"><span style=\"color:inherit;font-size:10pt;font-family:Arial, sans-serif;\">Demonstrate the proper donning and doffing of an APR</span></li>
+</ul></li>
+</ul>",false,1640729494000,507,true,2,60.0,true,"","",false,false,false,false,1640735097000,"","","","",13037,"",""
+1,BP1-LP,BP Induction,"<p>This course is intended to inform personnel about the work that BP does on the North Slope of Alaska. You will discuss the hazards that may be encountered in Prudhoe Bay and in the oil &amp; gas industry in Alaska, emergency information, camps and facilities details, road and weather conditions, safe driving rules and much more. This course is required for all personnel working on BP sites and/or projects in Alaska.</p>",false,1561583314000,245,false,1,"",false,"","",false,false,false,true,1578687745000,"","","","","","",""
+24,RP-SCBA-LPMEM,Respiratory Protection: Intro and SCBA,"<p style=\"color:#201f1e;font-size:11pt;font-family:Calibri, sans-serif;\"><strong><span class=\"marksuy34gv1e\">Respiratory</span> </strong><span class=\"mark0292dfnpz\"><strong>Protection SCBA Learning Plan</strong>  </span>– You must complete RP Introduction before moving on to the RP SCBA Module. <span style=\"color:#ff0000;\"><em>If you have already completed Respiratory Protection Introduction through ASA Online, that course will be credited toward this learning plan (no need to take again!) Please enroll in this Learning Plan, but purchase only the second module - Respiratory Protection SCBA.</em></span></p>
+<p style=\"color:#201f1e;font-size:11pt;font-family:Calibri, sans-serif;\"> </p>
+<p style=\"color:#201f1e;font-size:11pt;font-family:Calibri, sans-serif;\"><strong><span class=\"marksuy34gv1e\" style=\"color:inherit;\">Respiratory</span> <span class=\"mark0292dfnpz\" style=\"color:inherit;\">Protection</span> <span style=\"background-color:#ffff00;\"><span class=\"markhj9oa63b2\" style=\"color:inherit;\">Introduction</span></span> (NSTC-12)</strong></p>
+<p style=\"color:#201f1e;font-size:11pt;font-family:Calibri, sans-serif;\">Revised 1-2022</p>
+<p style=\"color:#201f1e;font-size:11pt;font-family:Calibri, sans-serif;\">Course Time 30 minutes</p>
+<p style=\"color:#201f1e;font-size:11pt;font-family:Calibri, sans-serif;\">Course Objectives:</p>
+<ul style=\"color:#201f1e;\" type=\"disc\"><li>
+<ul type=\"circle\"><li style=\"font-size:11pt;font-family:Calibri, sans-serif;\"><span style=\"color:inherit;font-size:10pt;font-family:Arial, sans-serif;\">List hazardous conditions that require the use of <span class=\"marksuy34gv1e\" style=\"color:inherit;\">respiratory</span> <span class=\"mark0292dfnpz\" style=\"color:inherit;\">protection</span></span></li>
+<li style=\"font-size:11pt;font-family:Calibri, sans-serif;\"><span style=\"color:inherit;font-size:10pt;font-family:Arial, sans-serif;\">Apply appropriate control measures for <span class=\"marksuy34gv1e\" style=\"color:inherit;\">respiratory</span> hazards</span></li>
+<li style=\"font-size:11pt;font-family:Calibri, sans-serif;\"><span style=\"color:inherit;font-size:10pt;font-family:Arial, sans-serif;\">Explain the purpose and elements of a <span class=\"marksuy34gv1e\" style=\"color:inherit;\">respiratory</span> <span class=\"mark0292dfnpz\" style=\"color:inherit;\">protection</span> program</span></li>
+<li style=\"font-size:11pt;font-family:Calibri, sans-serif;\"><span style=\"color:inherit;font-size:10pt;font-family:Arial, sans-serif;\">Explain the responsibilities of the employer and employees</span></li>
+</ul></li>
+</ul><p style=\"color:#201f1e;font-size:11pt;font-family:Calibri, sans-serif;\"><strong><span class=\"marksuy34gv1e\" style=\"color:inherit;\">Respiratory</span> <span class=\"mark0292dfnpz\" style=\"color:inherit;\">Protection</span> <span style=\"background-color:#ffff00;\"><span class=\"markhj9oa63b2\" style=\"color:inherit;\">SCBA</span></span> (NSTC-14)</strong></p>
+<p style=\"color:#201f1e;font-size:11pt;font-family:Calibri, sans-serif;\">Revised 1-2022</p>
+<p style=\"color:#201f1e;font-size:11pt;font-family:Calibri, sans-serif;\">Course Time 30 minutes</p>
+<p style=\"color:#201f1e;font-size:11pt;font-family:Calibri, sans-serif;\">Course Objectives:</p>
+<p style=\"color:#201f1e;font-size:11pt;font-family:Calibri, sans-serif;\"> </p>
+<ul style=\"color:#333333;\" type=\"disc\"><li>
+<ul type=\"circle\"><li style=\"font-size:11pt;\"><span style=\"color:inherit;font-size:10pt;font-family:Arial, sans-serif;\">Describe conditions requiring a Self-Contained Breathing Apparatus (SCBA), its advantages and limitations</span></li>
+<li style=\"font-size:11pt;\"><span style=\"color:inherit;font-size:10pt;font-family:Arial, sans-serif;\">Describe SCBA types, operations, and components</span></li>
+<li style=\"font-size:11pt;\"><span style=\"color:inherit;font-size:10pt;font-family:Arial, sans-serif;\">Demonstrate the proper SCBA inspection, maintenance, cleaning and storage, and</span></li>
+<li style=\"font-size:11pt;\"><span style=\"color:inherit;font-size:10pt;font-family:Arial, sans-serif;\">Demonstrate the proper donning and doffing of the SCBA, and the method for changing an air cylinder</span></li>
+</ul></li>
+</ul>",false,1640731768000,508,true,2,48.0,true,"","",false,false,false,false,1640731768000,"","","","",13037,"",""
+4,"",Admin Training,<p>The learning plan for new admins</p>,false,1603317702000,9,false,1,"",false,"","",false,false,false,false,1603317702000,"","","","","","",""
+23,RP-SCBA-LPNON,Respiratory Protection: Intro and SCBA,"<p style=\"color:#201f1e;font-size:11pt;font-family:Calibri, sans-serif;\"><strong><span class=\"marksuy34gv1e\">Respiratory</span> </strong><span class=\"mark0292dfnpz\"><strong>Protection SCBA Learning Plan</strong>  </span>– You must complete RP Introduction before moving on to the RP SCBA Module. <span style=\"color:#ff0000;\"><em>If you have already completed Respiratory Protection Introduction through ASA Online, that course will be credited toward this learning plan (no need to take again!) Please enroll in this Learning Plan, but purchase only the second module - Respiratory Protection SCBA.</em></span></p>
+<p style=\"color:#201f1e;font-size:11pt;font-family:Calibri, sans-serif;\"> </p>
+<p style=\"color:#201f1e;font-size:11pt;font-family:Calibri, sans-serif;\"><strong><span class=\"marksuy34gv1e\" style=\"color:inherit;\">Respiratory</span> <span class=\"mark0292dfnpz\" style=\"color:inherit;\">Protection</span> <span style=\"background-color:#ffff00;\"><span class=\"markhj9oa63b2\" style=\"color:inherit;\">Introduction</span></span> (NSTC-12)</strong></p>
+<p style=\"color:#201f1e;font-size:11pt;font-family:Calibri, sans-serif;\">Revised 1-2022</p>
+<p style=\"color:#201f1e;font-size:11pt;font-family:Calibri, sans-serif;\">Course Time 30 minutes</p>
+<p style=\"color:#201f1e;font-size:11pt;font-family:Calibri, sans-serif;\">Course Objectives:</p>
+<ul style=\"color:#201f1e;\" type=\"disc\"><li>
+<ul type=\"circle\"><li style=\"font-size:11pt;font-family:Calibri, sans-serif;\"><span style=\"color:inherit;font-size:10pt;font-family:Arial, sans-serif;\">List hazardous conditions that require the use of <span class=\"marksuy34gv1e\" style=\"color:inherit;\">respiratory</span> <span class=\"mark0292dfnpz\" style=\"color:inherit;\">protection</span></span></li>
+<li style=\"font-size:11pt;font-family:Calibri, sans-serif;\"><span style=\"color:inherit;font-size:10pt;font-family:Arial, sans-serif;\">Apply appropriate control measures for <span class=\"marksuy34gv1e\" style=\"color:inherit;\">respiratory</span> hazards</span></li>
+<li style=\"font-size:11pt;font-family:Calibri, sans-serif;\"><span style=\"color:inherit;font-size:10pt;font-family:Arial, sans-serif;\">Explain the purpose and elements of a <span class=\"marksuy34gv1e\" style=\"color:inherit;\">respiratory</span> <span class=\"mark0292dfnpz\" style=\"color:inherit;\">protection</span> program</span></li>
+<li style=\"font-size:11pt;font-family:Calibri, sans-serif;\"><span style=\"color:inherit;font-size:10pt;font-family:Arial, sans-serif;\">Explain the responsibilities of the employer and employees</span></li>
+</ul></li>
+</ul><p style=\"color:#201f1e;font-size:11pt;font-family:Calibri, sans-serif;\"><strong><span class=\"marksuy34gv1e\" style=\"color:inherit;\">Respiratory</span> <span class=\"mark0292dfnpz\" style=\"color:inherit;\">Protection</span> <span style=\"background-color:#ffff00;\"><span class=\"markhj9oa63b2\" style=\"color:inherit;\">SCBA</span></span> (NSTC-14)</strong></p>
+<p style=\"color:#201f1e;font-size:11pt;font-family:Calibri, sans-serif;\">Revised 1-2022</p>
+<p style=\"color:#201f1e;font-size:11pt;font-family:Calibri, sans-serif;\">Course Time 30 minutes</p>
+<p style=\"color:#201f1e;font-size:11pt;font-family:Calibri, sans-serif;\">Course Objectives:</p>
+<p style=\"color:#201f1e;font-size:11pt;font-family:Calibri, sans-serif;\"> </p>
+<ul type=\"disc\"><li><ul type=\"circle\"><li style=\"font-size:11pt;\"><span style=\"color:inherit;font-size:10pt;font-family:Arial, sans-serif;\">Describe conditions requiring a Self-Contained Breathing Apparatus (SCBA), its advantages and limitations</span></li>
+<li style=\"font-size:11pt;\"><span style=\"color:inherit;font-size:10pt;font-family:Arial, sans-serif;\">Describe SCBA types, operations, and components</span></li>
+<li style=\"font-size:11pt;\"><span style=\"color:inherit;font-size:10pt;font-family:Arial, sans-serif;\">Demonstrate the proper SCBA inspection, maintenance, cleaning and storage, and</span></li>
+<li style=\"font-size:11pt;\"><span style=\"color:inherit;font-size:10pt;font-family:Arial, sans-serif;\">Demonstrate the proper donning and doffing of the SCBA, and the method for changing an air cylinder</span></li>
+</ul></li></ul>",false,1640730374000,508,true,2,60.0,true,"","",false,false,false,false,1640730374000,"","","","",13037,"",""
+12,NSTC-10CCANON,Common Chemical Awareness,"<p><span style=\"color:#222222;font-size:16px;font-family:Times, serif;\">To introduce employees to the potential hazards and safe work practices specific to Asbestos, Benzene, and Lead.</span></p>",false,1613076275000,417,true,1,90.0,true,"","",false,false,false,false,1614646215000,"","","","","","",""
