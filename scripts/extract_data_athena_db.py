@@ -37,7 +37,7 @@ def are_tables_available(db_name, table_names):
     :param table_names: names pf Glue tables to check.
     :return flag: true for existence, false otherwise.
     """
-    glue = boto3.clinet("glue")
+    glue = boto3.client("glue")
     for table_name in table_names:
         try:
             glue.get_table(DatabaseName=db_name, Name=table_name)
