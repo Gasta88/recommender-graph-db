@@ -1,20 +1,20 @@
 {% set c1_table_exists = does_table_exists(
     'recommender_graph_db_dev',
-    'c1_dev_learning_coursepath_courses'
+    'c1_dev_learning_coursepath_courses_parquet'
 ) %}
 {% set c2_table_exists = does_table_exists(
     'recommender_graph_db_dev',
-    'c2_dev_learning_coursepath_courses'
+    'c2_dev_learning_coursepath_courses_parquet'
 ) %}
 {% set c3_table_exists = does_table_exists(
     'recommender_graph_db_dev',
-    'c3_dev_learning_coursepath_courses'
+    'c3_dev_learning_coursepath_courses_parquet'
 ) %}
 WITH c1_table AS ({% if c1_table_exists %}
 SELECT
     id_item AS item_id, id_path, 'c1' AS customer_name
 FROM
-    {{ source('recommender_graph_db_dev', 'c1_dev_learning_coursepath_courses') }}
+    {{ source('recommender_graph_db_dev', 'c1_dev_learning_coursepath_courses_parquet') }}
 {% else %}
 SELECT
     NULL AS item_id, NULL AS id_path, NULL AS customer_name
@@ -25,7 +25,7 @@ c2_table AS ({% if c2_table_exists %}
 SELECT
     id_item AS item_id, id_path, 'c2' AS customer_name
 FROM
-    {{ source('recommender_graph_db_dev', 'c2_dev_learning_coursepath_courses') }}
+    {{ source('recommender_graph_db_dev', 'c2_dev_learning_coursepath_courses_parquet') }}
 {% else %}
 SELECT
     NULL AS item_id, NULL AS id_path, NULL AS customer_name
@@ -36,7 +36,7 @@ c3_table AS ({% if c3_table_exists %}
 SELECT
     id_item AS item_id, id_path, 'c3' AS customer_name
 FROM
-    {{ source('recommender_graph_db_dev', 'c3_dev_learning_coursepath_courses') }}
+    {{ source('recommender_graph_db_dev', 'c3_dev_learning_coursepath_courses_parquet') }}
 {% else %}
 SELECT
     NULL AS item_id, NULL AS id_path, NULL AS customer_name
@@ -67,7 +67,7 @@ main_source AS (
 )
 SELECT
     item_id,
-    id_path AS path_id,
+    id_path AS _parquetpath_id,
     customer_name
 FROM
     main_source

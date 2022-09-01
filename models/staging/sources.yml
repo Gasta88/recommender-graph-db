@@ -4,7 +4,7 @@ sources:
   - name: recommender_graph_db_dev
     description: These are the sources for customer_1
     tables:
-      - name: c1_dev_core_user
+      - name: c1_dev_core_user_parquet
         description: >
           List of user metadata.
         columns:
@@ -25,7 +25,7 @@ sources:
             description: Date of user registration
             tests:
               - not_null
-      - name: c1_dev_core_setting_user
+      - name: c1_dev_core_setting_user_parquet
         description: >
           List of user preferences.
         columns:
@@ -38,7 +38,7 @@ sources:
             description: Value set for an attribute
             tests:
               - not_null
-      - name: c1_dev_core_group_members
+      - name: c1_dev_core_group_members_parquet
         description: >
           Relationship between users and groups (group/branch).
         columns:
@@ -52,7 +52,7 @@ sources:
             tests:
               - unique
               - not_null
-      - name: c1_dev_learning_course
+      - name: c1_dev_learning_course_parquet
         description: >
           List of course metadata.
         columns:
@@ -96,7 +96,7 @@ sources:
             description: time of course creation
             tests:
               - not_null
-      - name: c1_dev_learning_courseuser
+      - name: c1_dev_learning_courseuser_parquet
         description: >
           User enrollments into courses metadata.
         columns:
@@ -120,7 +120,7 @@ sources:
             description: last enrollement update
             tests:
               - not_null
-      - name: c1_dev_learning_course_rating_vote
+      - name: c1_dev_learning_course_rating_vote_parquet
         description: >
           Collects the rating 'action' perfomerd by user (used to avoid multiple ratings by user).
         columns:
@@ -136,7 +136,7 @@ sources:
               - not_null
           - name: rating
             description: actual rating, between 1 and 5
-      - name: c1_dev_learning_coursepath_courses
+      - name: c1_dev_learning_coursepath_courses_parquet
         description: >
           Relationship between courses and learning plans they belong to.
         columns:
@@ -150,7 +150,7 @@ sources:
             tests:
               - unique
               - not_null
-      - name: c1_dev_app7020_content
+      - name: c1_dev_app7020_content_parquet
         description: >
           Assets and playlists metadata.
         columns:
@@ -163,10 +163,9 @@ sources:
             description: asset creation date
             tests:
               - not_null
-          - name: content_type
+          - name: contenttype
             description: asset file type
             tests:
-              - not_null
               - accepted_values:
                   values:
                     [
@@ -189,7 +188,7 @@ sources:
                       21,
                       22,
                     ]
-      - name: c1_dev_app7020_content_history
+      - name: c1_dev_app7020_content_history_parquet
         description: >
           Number of asset views.
         columns:
@@ -207,7 +206,7 @@ sources:
             description: date and time of the view
             tests:
               - not_null
-      - name: c1_dev_app7020_content_rating
+      - name: c1_dev_app7020_content_rating_parquet
         description: >
           Number of ratings gived by users on a piece of content (rate scale: 1 to 5).
         columns:
@@ -223,7 +222,7 @@ sources:
               - not_null
           - name: rating
             description: asset rating
-      - name: c1_dev_app7020_invitations
+      - name: c1_dev_app7020_invitations_parquet
         description: >
           List of asset invitations to watch.
         columns:
@@ -243,7 +242,7 @@ sources:
             description: date and time of the invitation
             tests:
               - not_null
-      - name: c2_dev_core_user
+      - name: c2_dev_core_user_parquet
         description: >
           List of user metadata.
         columns:
@@ -264,7 +263,7 @@ sources:
             description: Date of user registration
             tests:
               - not_null
-      - name: c2_dev_core_setting_user
+      - name: c2_dev_core_setting_user_parquet
         description: >
           List of user preferences.
         columns:
@@ -277,7 +276,7 @@ sources:
             description: Value set for an attribute
             tests:
               - not_null
-      - name: c2_dev_core_group_members
+      - name: c2_dev_core_group_members_parquet
         description: >
           Relationship between users and groups (group/branch).
         columns:
@@ -291,7 +290,7 @@ sources:
             tests:
               - unique
               - not_null
-      - name: c2_dev_learning_course
+      - name: c2_dev_learning_course_parquet
         description: >
           List of course metadata.
         columns:
@@ -335,7 +334,7 @@ sources:
             description: time of course creation
             tests:
               - not_null
-      - name: c2_dev_learning_courseuser
+      - name: c2_dev_learning_courseuser_parquet
         description: >
           User enrollments into courses metadata.
         columns:
@@ -359,7 +358,7 @@ sources:
             description: last enrollement update
             tests:
               - not_null
-      - name: c2_dev_learning_course_rating_vote
+      - name: c2_dev_learning_course_rating_vote_parquet
         description: >
           Collects the rating 'action' perfomerd by user (used to avoid multiple ratings by user).
         columns:
@@ -375,7 +374,7 @@ sources:
               - not_null
           - name: rating
             description: actual rating, between 1 and 5
-      - name: c2_dev_learning_coursepath_courses
+      - name: c2_dev_learning_coursepath_courses_parquet
         description: >
           Relationship between courses and learning plans they belong to.
         columns:
@@ -389,7 +388,7 @@ sources:
             tests:
               - unique
               - not_null
-      - name: c2_dev_app7020_content
+      - name: c2_dev_app7020_content_parquet
         description: >
           Assets and playlists metadata.
         columns:
@@ -402,10 +401,9 @@ sources:
             description: asset creation date
             tests:
               - not_null
-          - name: content_type
+          - name: contenttype
             description: asset file type
             tests:
-              - not_null
               - accepted_values:
                   values:
                     [
@@ -428,7 +426,7 @@ sources:
                       21,
                       22,
                     ]
-      - name: c2_dev_app7020_content_history
+      - name: c2_dev_app7020_content_history_parquet
         description: >
           Number of asset views.
         columns:
@@ -446,7 +444,7 @@ sources:
             description: date and time of the view
             tests:
               - not_null
-      - name: c2_dev_app7020_content_rating
+      - name: c2_dev_app7020_content_rating_parquet
         description: >
           Number of ratings gived by users on a piece of content (rate scale: 1 to 5).
         columns:
@@ -462,7 +460,7 @@ sources:
               - not_null
           - name: rating
             description: asset rating
-      - name: c2_dev_app7020_invitations
+      - name: c2_dev_app7020_invitations_parquet
         description: >
           List of asset invitations to watch.
         columns:
@@ -482,7 +480,7 @@ sources:
             description: date and time of the invitation
             tests:
               - not_null
-      - name: c3_dev_core_user
+      - name: c3_dev_core_user_parquet
         description: >
           List of user metadata.
         columns:
@@ -503,7 +501,7 @@ sources:
             description: Date of user registration
             tests:
               - not_null
-      - name: c3_dev_core_setting_user
+      - name: c3_dev_core_setting_user_parquet
         description: >
           List of user preferences.
         columns:
@@ -516,7 +514,7 @@ sources:
             description: Value set for an attribute
             tests:
               - not_null
-      - name: c3_dev_core_group_members
+      - name: c3_dev_core_group_members_parquet
         description: >
           Relationship between users and groups (group/branch).
         columns:
@@ -530,7 +528,7 @@ sources:
             tests:
               - unique
               - not_null
-      - name: c3_dev_learning_course
+      - name: c3_dev_learning_course_parquet
         description: >
           List of course metadata.
         columns:
@@ -574,7 +572,7 @@ sources:
             description: time of course creation
             tests:
               - not_null
-      - name: c3_dev_learning_courseuser
+      - name: c3_dev_learning_courseuser_parquet
         description: >
           User enrollments into courses metadata.
         columns:
@@ -598,7 +596,7 @@ sources:
             description: last enrollement update
             tests:
               - not_null
-      - name: c3_dev_learning_course_rating_vote
+      - name: c3_dev_learning_course_rating_vote_parquet
         description: >
           Collects the rating 'action' perfomerd by user (used to avoid multiple ratings by user).
         columns:
@@ -614,7 +612,7 @@ sources:
               - not_null
           - name: rating
             description: actual rating, between 1 and 5
-      - name: c3_dev_learning_coursepath_courses
+      - name: c3_dev_learning_coursepath_courses_parquet
         description: >
           Relationship between courses and learning plans they belong to.
         columns:
@@ -628,7 +626,7 @@ sources:
             tests:
               - unique
               - not_null
-      - name: c3_dev_app7020_content
+      - name: c3_dev_app7020_content_parquet
         description: >
           Assets and playlists metadata.
         columns:
@@ -641,10 +639,9 @@ sources:
             description: asset creation date
             tests:
               - not_null
-          - name: content_type
+          - name: contenttype
             description: asset file type
             tests:
-              - not_null
               - accepted_values:
                   values:
                     [
@@ -667,7 +664,7 @@ sources:
                       21,
                       22,
                     ]
-      - name: c3_dev_app7020_content_history
+      - name: c3_dev_app7020_content_history_parquet
         description: >
           Number of asset views.
         columns:
@@ -685,7 +682,7 @@ sources:
             description: date and time of the view
             tests:
               - not_null
-      - name: c3_dev_app7020_content_rating
+      - name: c3_dev_app7020_content_rating_parquet
         description: >
           Number of ratings gived by users on a piece of content (rate scale: 1 to 5).
         columns:
@@ -701,7 +698,7 @@ sources:
               - not_null
           - name: rating
             description: asset rating
-      - name: c3_dev_app7020_invitations
+      - name: c3_dev_app7020_invitations_parquet
         description: >
           List of asset invitations to watch.
         columns:

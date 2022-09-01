@@ -9,6 +9,7 @@ python = "^3.9"
 dbt-athena-adapter = "^1.0.1"
 boto3 = "^1.24.63"
 neo4j = "^4.4.5"
+pandas = "^1.4.4"
 
 [tool.poetry.dev-dependencies]
 

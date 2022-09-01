@@ -1,20 +1,20 @@
 {% set c1_table_exists = does_table_exists(
     'recommender_graph_db_dev',
-    'c1_dev_learning_courseuser'
+    'c1_dev_learning_courseuser_parquet'
 ) %}
 {% set c2_table_exists = does_table_exists(
     'recommender_graph_db_dev',
-    'c2_dev_learning_courseuser'
+    'c2_dev_learning_courseuser_parquet'
 ) %}
 {% set c3_table_exists = does_table_exists(
     'recommender_graph_db_dev',
-    'c3_dev_learning_courseuser'
+    'c3_dev_learning_courseuser_parquet'
 ) %}
 WITH c1_table AS ({% if c1_table_exists %}
 SELECT
     idUser AS user_id, idCourse AS course_id, "status", last_update AS "timestamp", {{ recency_bigint('last_update') }} AS recency, 'c1' AS customer_name
 FROM
-    {{ source('recommender_graph_db_dev', 'c1_dev_learning_courseuser') }}
+    {{ source('recommender_graph_db_dev', 'c1_dev_learning_courseuser_parquet') }}
 {% else %}
 SELECT
     NULL AS user_id, NULL AS course_id, NULL AS "status", NULL AS "timestamp", NULL AS recency, NULL AS customer_name
@@ -25,7 +25,7 @@ c2_table AS ({% if c2_table_exists %}
 SELECT
     idUser AS user_id, idCourse AS course_id, "status", last_update AS "timestamp", {{ recency_bigint('last_update') }} AS recency, 'c2' AS customer_name
 FROM
-    {{ source('recommender_graph_db_dev', 'c2_dev_learning_courseuser') }}
+    {{ source('recommender_graph_db_dev', 'c2_dev_learning_courseuser_parquet') }}
 {% else %}
 SELECT
     NULL AS user_id, NULL AS course_id, NULL AS "status", NULL AS "timestamp", NULL AS recency, NULL AS customer_name
@@ -36,7 +36,7 @@ c3_table AS ({% if c3_table_exists %}
 SELECT
     idUser AS user_id, idCourse AS course_id, "status", last_update AS "timestamp", {{ recency_bigint('last_update') }} AS recency, 'c3' AS customer_name
 FROM
-    {{ source('recommender_graph_db_dev', 'c3_dev_learning_courseuser') }}
+    {{ source('recommender_graph_db_dev', 'c3_dev_learning_courseuser_parquet') }}
 {% else %}
 SELECT
     NULL AS user_id, NULL AS course_id, NULL AS "status", NULL AS "timestamp", NULL AS recency, NULL AS customer_name

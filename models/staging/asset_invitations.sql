@@ -1,20 +1,20 @@
 {% set c1_table_exists = does_table_exists(
     'recommender_graph_db_dev',
-    'c1_dev_app7020_invitations'
+    'c1_dev_app7020_invitations_parquet'
 ) %}
 {% set c2_table_exists = does_table_exists(
     'recommender_graph_db_dev',
-    'c2_dev_app7020_invitations'
+    'c2_dev_app7020_invitations_parquet'
 ) %}
 {% set c3_table_exists = does_table_exists(
     'recommender_graph_db_dev',
-    'c3_dev_app7020_invitations'
+    'c3_dev_app7020_invitations_parquet'
 ) %}
 WITH c1_table AS ({% if c1_table_exists %}
 SELECT
     idContent AS content_id, idInvited AS invited_id, idInviter AS inviter_id, created, created, {{ recency_bigint('created') }} AS recency, 'c1' AS customer_name
 FROM
-    {{ source('recommender_graph_db_dev', 'c1_dev_app7020_invitations') }}
+    {{ source('recommender_graph_db_dev', 'c1_dev_app7020_invitations_parquet') }}
 {% else %}
 SELECT
     NULL AS content_id, NULL AS invited_id, NULL AS inviter_id, NULL AS created, NULL AS recency, NULL AS customer_name
@@ -25,7 +25,7 @@ c2_table AS ({% if c2_table_exists %}
 SELECT
     idContent AS content_id, idInvited AS invited_id, idInviter AS inviter_id, created, {{ recency_bigint('created') }} AS recency, 'c2' AS customer_name
 FROM
-    {{ source('recommender_graph_db_dev', 'c2_dev_app7020_invitations') }}
+    {{ source('recommender_graph_db_dev', 'c2_dev_app7020_invitations_parquet') }}
 {% else %}
 SELECT
     NULL AS content_id, NULL AS invited_id, NULL AS inviter_id, NULL AS created, NULL AS recency, NULL AS customer_name
@@ -36,7 +36,7 @@ c3_table AS ({% if c3_table_exists %}
 SELECT
     idContent AS content_id, idInvited AS invited_id, idInviter AS inviter_id, created, {{ recency_bigint('created') }} AS recency, 'c3' AS customer_name
 FROM
-    {{ source('recommender_graph_db_dev', 'c3_dev_app7020_invitations') }}
+    {{ source('recommender_graph_db_dev', 'c3_dev_app7020_invitations_parquet') }}
 {% else %}
 SELECT
     NULL AS content_id, NULL AS invited_id, NULL AS inviter_id, NULL AS created, NULL AS recency, NULL AS customer_name
