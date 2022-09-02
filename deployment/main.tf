@@ -141,10 +141,7 @@ resource "aws_glue_crawler" "raw-data-crawler-customer-1" {
   role          = aws_iam_role.glue-role.arn
   table_prefix  = "c1_${terraform.workspace}_"
 
-  s3_target { path = "s3://${aws_s3_bucket.data-bucket.bucket}/data/raw/customer_1/app7020_.parquet" }
-  s3_target { path = "s3://${aws_s3_bucket.data-bucket.bucket}/data/raw/customer_1/learning_coursepath_courses.parquet" }
   s3_target { path = "s3://${aws_s3_bucket.data-bucket.bucket}/data/raw/customer_1/core_user.parquet" }
-  s3_target { path = "s3://${aws_s3_bucket.data-bucket.bucket}/data/raw/customer_1/core_group_members.parquet" }
   s3_target { path = "s3://${aws_s3_bucket.data-bucket.bucket}/data/raw/customer_1/learning_course.parquet" }
   s3_target { path = "s3://${aws_s3_bucket.data-bucket.bucket}/data/raw/customer_1/learning_course_rating_vote.parquet" }
   s3_target { path = "s3://${aws_s3_bucket.data-bucket.bucket}/data/raw/customer_1/learning_courseuser.parquet" }
@@ -157,15 +154,12 @@ resource "aws_glue_crawler" "raw-data-crawler-customer-2" {
   role          = aws_iam_role.glue-role.arn
   table_prefix  = "c2_${terraform.workspace}_"
 
-  s3_target { path = "s3://${aws_s3_bucket.data-bucket.bucket}/data/raw/customer_2/learning_coursepath_courses.parquet" }
   s3_target { path = "s3://${aws_s3_bucket.data-bucket.bucket}/data/raw/customer_2/core_user.parquet" }
-  s3_target { path = "s3://${aws_s3_bucket.data-bucket.bucket}/data/raw/customer_2/core_group_members.parquet" }
   s3_target { path = "s3://${aws_s3_bucket.data-bucket.bucket}/data/raw/customer_2/learning_course.parquet" }
   s3_target { path = "s3://${aws_s3_bucket.data-bucket.bucket}/data/raw/customer_2/learning_course_rating_vote.parquet" }
   s3_target { path = "s3://${aws_s3_bucket.data-bucket.bucket}/data/raw/customer_2/app7020_content_history.parquet" }
   s3_target { path = "s3://${aws_s3_bucket.data-bucket.bucket}/data/raw/customer_2/app7020_content.parquet" }
   s3_target { path = "s3://${aws_s3_bucket.data-bucket.bucket}/data/raw/customer_2/app7020_content_rating.parquet" }
-  s3_target { path = "s3://${aws_s3_bucket.data-bucket.bucket}/data/raw/customer_2/app7020_invitations.parquet" }
   s3_target { path = "s3://${aws_s3_bucket.data-bucket.bucket}/data/raw/customer_2/learning_courseuser.parquet" }
   s3_target { path = "s3://${aws_s3_bucket.data-bucket.bucket}/data/raw/customer_2/core_setting_user.parquet" }
 }
@@ -175,9 +169,7 @@ resource "aws_glue_crawler" "raw-data-crawler-customer-3" {
   role          = aws_iam_role.glue-role.arn
   table_prefix  = "c3_${terraform.workspace}_"
 
-  s3_target { path = "s3://${aws_s3_bucket.data-bucket.bucket}/data/raw/customer_3/learning_coursepath_courses.parquet" }
   s3_target { path = "s3://${aws_s3_bucket.data-bucket.bucket}/data/raw/customer_3/core_user.parquet" }
-  s3_target { path = "s3://${aws_s3_bucket.data-bucket.bucket}/data/raw/customer_3/core_group_members.parquet" }
   s3_target { path = "s3://${aws_s3_bucket.data-bucket.bucket}/data/raw/customer_3/learning_course.parquet" }
   s3_target { path = "s3://${aws_s3_bucket.data-bucket.bucket}/data/raw/customer_3/learning_course_rating_vote.parquet" }
   s3_target { path = "s3://${aws_s3_bucket.data-bucket.bucket}/data/raw/customer_3/learning_courseuser.parquet" }
@@ -185,7 +177,6 @@ resource "aws_glue_crawler" "raw-data-crawler-customer-3" {
   s3_target { path = "s3://${aws_s3_bucket.data-bucket.bucket}/data/raw/customer_3/app7020_content_history.parquet" }
   s3_target { path = "s3://${aws_s3_bucket.data-bucket.bucket}/data/raw/customer_3/app7020_content_rating.parquet" }
   s3_target { path = "s3://${aws_s3_bucket.data-bucket.bucket}/data/raw/customer_3/app7020_content.parquet" }
-  s3_target { path = "s3://${aws_s3_bucket.data-bucket.bucket}/data/raw/customer_3/app7020_invitations.parquet" }
 }
 
 resource "null_resource" "run-crawler-customer-1" {

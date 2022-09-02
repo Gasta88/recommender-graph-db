@@ -6,7 +6,6 @@ version: "0.1"
 profile: "recommender_graph_db"
 
 model-paths: ["models"]
-# seed-paths: ["seeds"]
 test-paths: ["tests"]
 macro-paths: ["macros"]
 
@@ -21,5 +20,3 @@ require-dbt-version: [">=1.0.0", "<2.0.0"]
 models:
   recommender_graph_db:
     # materialized: table
-    staging:
-      # materialized: view

@@ -31,25 +31,6 @@ models:
         description: how long this asset created
       - name: customer_name
         description: name of the customer
-  - name: asset_invitations
-    description: List of interaction between inviter, invited and item
-    config:
-      materialized: view
-    columns:
-      - name: user_id
-        description: user unique id
-      - name: timestamp
-        description: timestamp from when the interaction was made
-      - name: rating
-        description: user rating for the item
-      - name: type
-        description: item type
-      - name: priority
-        description: weight used for the ML model
-      - name: recency
-        description: how long this asset created
-      - name: customer_name
-        description: name of the customer
   - name: asset_rating
     description: List of item rating by user
     config:
@@ -103,17 +84,6 @@ models:
         description: how long the course was created
       - name: customer_name
         description: name of the customer
-  - name: course_coursepath
-    description: List course/coursepath
-    config:
-      materialized: table
-    columns:
-      - name: item_id
-        description: course unique id
-      - name: path_id
-        description: coursepath unique id
-      - name: customer_name
-        description: name of the customer
   - name: course_rating
     description: List of course rating by user
     config:
@@ -142,17 +112,6 @@ models:
         description: datetime of user registration
       - name: recency
         description: how long were the user registered
-      - name: customer_name
-        description: name of the customer
-  - name: user_user_groups
-    description: List of user groups metadata
-    config:
-      materialized: table
-    columns:
-      - name: group_id
-        description: group unique id
-      - name: user_id
-        description: user unique id
       - name: customer_name
         description: name of the customer
   - name: user_user_language

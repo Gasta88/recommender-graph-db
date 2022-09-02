@@ -38,20 +38,6 @@ sources:
             description: Value set for an attribute
             tests:
               - not_null
-      - name: c1_dev_core_group_members_parquet
-        description: >
-          Relationship between users and groups (group/branch).
-        columns:
-          - name: idst
-            description: Primary key of the table
-            tests:
-              - unique
-              - not_null
-          - name: idstMember
-            description: user id
-            tests:
-              - unique
-              - not_null
       - name: c1_dev_learning_course_parquet
         description: >
           List of course metadata.
@@ -136,20 +122,6 @@ sources:
               - not_null
           - name: rating
             description: actual rating, between 1 and 5
-      - name: c1_dev_learning_coursepath_courses_parquet
-        description: >
-          Relationship between courses and learning plans they belong to.
-        columns:
-          - name: id_item
-            description: course id
-            tests:
-              - unique
-              - not_null
-          - name: id_path
-            description: na
-            tests:
-              - unique
-              - not_null
       - name: c1_dev_app7020_content_parquet
         description: >
           Assets and playlists metadata.
@@ -222,26 +194,6 @@ sources:
               - not_null
           - name: rating
             description: asset rating
-      - name: c1_dev_app7020_invitations_parquet
-        description: >
-          List of asset invitations to watch.
-        columns:
-          - name: idContent
-            description: asset id
-            tests:
-              - not_null
-          - name: idInviter
-            description: inviter id
-            tests:
-              - not_null
-          - name: idInvited
-            description: invited id
-            tests:
-              - not_null
-          - name: created
-            description: date and time of the invitation
-            tests:
-              - not_null
       - name: c2_dev_core_user_parquet
         description: >
           List of user metadata.
@@ -275,20 +227,6 @@ sources:
           - name: value
             description: Value set for an attribute
             tests:
-              - not_null
-      - name: c2_dev_core_group_members_parquet
-        description: >
-          Relationship between users and groups (group/branch).
-        columns:
-          - name: idst
-            description: Primary key of the table
-            tests:
-              - unique
-              - not_null
-          - name: idstMember
-            description: user id
-            tests:
-              - unique
               - not_null
       - name: c2_dev_learning_course_parquet
         description: >
@@ -374,20 +312,6 @@ sources:
               - not_null
           - name: rating
             description: actual rating, between 1 and 5
-      - name: c2_dev_learning_coursepath_courses_parquet
-        description: >
-          Relationship between courses and learning plans they belong to.
-        columns:
-          - name: id_item
-            description: course id
-            tests:
-              - unique
-              - not_null
-          - name: id_path
-            description: na
-            tests:
-              - unique
-              - not_null
       - name: c2_dev_app7020_content_parquet
         description: >
           Assets and playlists metadata.
@@ -460,26 +384,6 @@ sources:
               - not_null
           - name: rating
             description: asset rating
-      - name: c2_dev_app7020_invitations_parquet
-        description: >
-          List of asset invitations to watch.
-        columns:
-          - name: idContent
-            description: asset id
-            tests:
-              - not_null
-          - name: idInviter
-            description: inviter id
-            tests:
-              - not_null
-          - name: idInvited
-            description: invited id
-            tests:
-              - not_null
-          - name: created
-            description: date and time of the invitation
-            tests:
-              - not_null
       - name: c3_dev_core_user_parquet
         description: >
           List of user metadata.
@@ -513,20 +417,6 @@ sources:
           - name: value
             description: Value set for an attribute
             tests:
-              - not_null
-      - name: c3_dev_core_group_members_parquet
-        description: >
-          Relationship between users and groups (group/branch).
-        columns:
-          - name: idst
-            description: Primary key of the table
-            tests:
-              - unique
-              - not_null
-          - name: idstMember
-            description: user id
-            tests:
-              - unique
               - not_null
       - name: c3_dev_learning_course_parquet
         description: >
@@ -612,20 +502,6 @@ sources:
               - not_null
           - name: rating
             description: actual rating, between 1 and 5
-      - name: c3_dev_learning_coursepath_courses_parquet
-        description: >
-          Relationship between courses and learning plans they belong to.
-        columns:
-          - name: id_item
-            description: course id
-            tests:
-              - unique
-              - not_null
-          - name: id_path
-            description: na
-            tests:
-              - unique
-              - not_null
       - name: c3_dev_app7020_content_parquet
         description: >
           Assets and playlists metadata.
@@ -698,23 +574,3 @@ sources:
               - not_null
           - name: rating
             description: asset rating
-      - name: c3_dev_app7020_invitations_parquet
-        description: >
-          List of asset invitations to watch.
-        columns:
-          - name: idContent
-            description: asset id
-            tests:
-              - not_null
-          - name: idInviter
-            description: inviter id
-            tests:
-              - not_null
-          - name: idInvited
-            description: invited id
-            tests:
-              - not_null
-          - name: created
-            description: date and time of the invitation
-            tests:
-              - not_null
