@@ -17,20 +17,6 @@ terraform {
 }
 
 #--------------------------- Locals declaration
-locals {
-  env = {
-    dev = {
-      #   source_bucket = "ef-staging"
-      #   media_bucket  = "media-library-staging"
-    }
-    e2e-test = {
-      #   source_bucket = "None"
-      #   media_bucket  = "media-library-staging"
-    }
-  }
-  environmentvars = contains(keys(local.env), terraform.workspace) ? terraform.workspace : "dev"
-  workspace       = merge(local.env["dev"], local.env[local.environmentvars])
-}
 #--------------------------- S3 and S3 objects
 resource "aws_s3_bucket" "data-bucket" {
   bucket = "recommender-graph-db-${terraform.workspace}"
